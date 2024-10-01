@@ -1,0 +1,3219 @@
+Breast 
+345
+ PART VII 
+ Breast 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+347
+32
+ 32 
+ Breast 
+ At-A-Glance 
+              SUMMARY OF CHANGES    
+ Tumor (T)
+ ● Identiﬁ ed speciﬁ c imaging modalities that can be used to estimate clinical tumor size, 
+including mammography, ultrasound, and magnetic resonance imaging (MRI)  
+ ● Made speciﬁ c recommendations that (1) the microscopic measurement is the most 
+accurate and preferred method to determine pT with a small invasive cancer that can 
+be entirely submitted in one parafﬁ n block, and (2) the gross measurement is the most 
+accurate and preferred method to determine pT with larger invasive cancers that must 
+be submitted in multiple parafﬁ n blocks  
+ ● Made the speciﬁ c recommendation to use the clinical measurement thought to be most 
+accurate to determine the clinical T of breast cancers treated with neoadjuvant therapy. 
+Pathologic (posttreatment) size should be estimated based on the best combination of 
+gross and microscopic histological ﬁ ndings 
+ ● Made the speciﬁ c recommendation to estimate the size of invasive cancers that are unap-
+parent to any clinical modalities or gross pathologic examination by carefully measuring 
+and recording the relative positions of tissue samples submitted for microscopic evalua-
+tion and determining which contain tumor 
+ ● Acknowledged “ductal intraepithelial neoplasia” (DIN) as uncommon, and still not 
+widely accepted, terminology encompassing both DCIS and ADH, and clariﬁ cation that 
+only cases referred to as DIN containing DCIS (±ADH) are classiﬁ ed as Tis (DCIS) 
+ ● Acknowledged “lobular intraepithelial neoplasia” (LIN) as uncommon, and still not 
+widely accepted, terminology encompassing both LCIS and ALH, and clariﬁ cation that 
+only cases referred to as LIN containing LCIS (±ALH) are classiﬁ ed as Tis (LCIS) 
+ ● Clariﬁ cation that only Paget’s disease NOT associated with an underlying noninvasive 
+(i.e., DCIS and/or LCIS) or invasive breast cancer should be classiﬁ ed as Tis (Paget’s) and 
+that Paget’s disease associated with an underlying cancer be classiﬁ ed according to the 
+underlying cancer (Tis, T1, etc.) 
+ ● Made the recommendation to estimate the size of noninvasive carcinomas (DCIS and 
+LCIS), even though it does not currently change their T classiﬁ cation, because noninvasive 
+cancer size may inﬂ uence therapeutic decisions, acknowledging that providing a precise 
+size for LCIS may be difﬁ cult 
+ ● Acknowledged that the prognosis of microinvasive carcinoma is generally thought to be 
+quite favorable, although the clinical impact of multifocal microinvasive disease is not 
+well understood at this time 
+ ● Acknowledged that it is not necessary for tumors to be in separate quadrants to be clas-
+siﬁ ed as multiple simultaneous ipsilateral carcinomas, providing that they can be unam-
+biguously demonstrated to be macroscopically distinct and measurable using available 
+clinical and pathologic techniques 
+continued
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+348 
+American Joint Committee on Cancer • 2010
+SUMMARY OF CHANGES (CONTINUED)
+ ● Maintained that the term “inﬂ ammatory carcinoma” be restricted to cases with typical 
+skin changes involving a third or more of the skin of the breast. While the histologic 
+presence of invasive carcinoma invading dermal lymphatics is supportive of the diagno-
+sis, it is not required, nor is dermal lymphatic invasion without typical clinical ﬁ ndings 
+sufﬁ cient for a diagnosis of inﬂ ammatory breast cancer 
+ ● Recommend that all invasive cancer should be graded using the Nottingham combined 
+histologic grade (Elston-Ellis modiﬁ cation of Scarff–Bloom–Richardson grading system)  
+ Nodes (N)
+ ● Classiﬁ cation of isolated tumor cell clusters and single cells is more stringent. Small 
+clusters of cells not greater than 0.2 mm, or nonconﬂ uent or nearly conﬂ uent clusters of 
+cells not exceeding 200 cells in a single histologic lymph node cross section are classiﬁ ed 
+as isolated tumor cells 
+ ● Use of the (sn) modiﬁ er has been clariﬁ ed and restricted. When six or more sentinel 
+nodes are identiﬁ ed on gross examination of pathology specimens the (sn) modiﬁ er 
+should be omitted 
+ ● Stage I breast tumors have been subdivided into Stage IA and Stage IB; Stage IB includes 
+small tumors (T1) with exclusively micrometastases in lymph nodes (N1mi)    
+ Metastases (M)
+ ● Created new M0(i+) category, deﬁ ned by presence of either disseminated tumor cells detect-
+able in bone marrow or circulating tumor cells or found incidentally in other tissues (such as 
+ovaries removed prophylactically) if not exceeding 0.2 mm. However, this category does not 
+change the Stage Grouping. Assuming that they do not have clinically and/or radiographi-
+cally detectable metastases, patients with M0(i+) are staged according to T and N  
+ Postneoadjuvant Therapy (yc or ypTNM)
+ ● In the setting of patients who received neoadjuvant therapy, pretreatment clinical T (cT) 
+should be based on clinical or imaging ﬁ ndings 
+ ● Postneoadjuvant therapy T should be based on clinical or imaging (ycT) or pathologic 
+ﬁ ndings (ypT) 
+ ● A subscript will be added to the clinical N for both node negative and node positive 
+patients to indicate whether the N was derived from clinical examination, ﬁ ne needle 
+aspiration, core needle biopsy, or sentinel lymph node biopsy  
+ ● The posttreatment ypT will be defined as the largest contiguous focus of invasive 
+cancer as defined histopathologically with a subscript to indicate the presence of 
+multiple tumor foci. Note: deﬁ nition of posttreatment ypT remains controversial and 
+an area in transition 
+ ● Posttreatment nodal metastases no greater than 0.2 mm are classiﬁ ed as ypN0(i+) as in 
+patients who have not received neoadjuvant systemic therapy. However, patients with 
+this ﬁ nding are not considered to have achieved a pathologic complete response (pCR) 
+ ● A description of the degree of response to neoadjuvant therapy (complete, partial, no 
+response) will be collected by the registrar with the posttreatment ypTNM. The registrars 
+are requested to describe how they deﬁ ned response [by physical examination, imaging tech-
+niques (mammogram, ultrasound, magnetic resonance imaging (MRI)) or pathologically]  
+ ● Patients will be considered to have M1 (and therefore Stage IV) breast cancer if they have 
+had clinically or radiographically detectable metastases, with or without biopsy, prior to 
+neoadjuvant systemic therapy, regardless of their status after neoadjuvant systemic therapy     
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+349
+32
+ INTRODUCTION 
+ This staging system for carcinoma of the breast applies to inva-
+sive (also designated inﬁ ltrating) as well as in situ carcinomas, 
+with or without microinvasion. Microscopic conﬁ rmation of 
+the diagnosis is mandatory, and the histologic type and grade 
+of carcinoma should be recorded. For all sites (T, N, M), 
+clinical staging (c) is determined using information identiﬁ ed 
+prior to surgery or neoadjuvant therapy. Pathologic staging 
+(p) includes information deﬁ ned at surgery. With neoadju-
+vant therapy a posttherapy pathologic staging is recorded 
+using the “yp” designator. 
+ The year 2009 marks the 50th anniversary of codiﬁ ca-
+tion of tumor staging into the TNM system by the Ameri-
+can Joint Committee on Cancer (AJCC; originally designated 
+the American Joint Committee for Cancer Staging and End-
+Results Reporting). Beginning with that initiative, six editions 
+of the AJCC Staging Manual have been published, in which 
+careful deﬁ nitions of the primary tumor (T), the status of the 
+surrounding lymph nodes (N), and the presence of distant 
+ ANATOMIC STAGE/PROGNOSTIC GROUPS 
+ Stage 0 
+ Tis 
+ N0 
+ M0 
+ Stage IA 
+ T1 *  
+ N0 
+ M0 
+ Stage IB 
+ T0 
+ N1mi 
+ M0 
+ 
+ T1 * 
+ N1mi 
+ M0 
+ Stage IIA 
+ T0 
+ N1 ** 
+ M0 
+ 
+ T1 * 
+ N1 ** 
+ M0 
+ 
+ T2 
+ N0 
+ M0 
+ Stage IIB 
+ T2 
+ N1 
+ M0 
+ 
+ T3 
+ N0 
+ M0 
+ Stage IIIA 
+ T0 
+ N2 
+ M0 
+ 
+ T1 * 
+ N2 
+ M0 
+ 
+ T2 
+ N2 
+ M0 
+ 
+ T3 
+ N1 
+ M0 
+ 
+ T3 
+ N2 
+ M0 
+ Stage IIIB 
+ T4 
+ N0 
+ M0 
+ 
+ T4 
+ N1 
+ M0 
+ 
+ T4 
+ N2 
+ M0 
+ Stage IIIC 
+ Any T 
+ N3 
+ M0 
+ Stage IV 
+ Any T 
+ Any N 
+ M1  
+ ICD-O-3 TOPOGRAPHY 
+CODES 
+  C50.0 
+Nipple  
+ C50.1 
+Central portion 
+of breast 
+ C50.2 
+Upper inner 
+quadrant of breast  
+ C50.3 
+Lower inner 
+quadrant of breast  
+ C50.4 
+Upper outer 
+quadrant of breast  
+ C50.5 
+Lower outer 
+quadrant of breast  
+ C50.6 
+Axillary tail 
+of breast 
+  C50.8 
+Overlapping 
+lesion of breast 
+ C50.9 
+Breast, NOS 
+ ICD-O-3 HISTOLOGY 
+CODE RANGES 
+ 8000–8576, 8940–8950, 
+8980–8981, 9020 
+ Notes: 
+ * T1 includes T1mi. 
+ ** T0 and T1 tumors with nodal micrometastases only are excluded from Stage IIA and are classiﬁ ed Stage IB.
+ ● M0 includes M0(i+). 
+ ● The designation pM0 is not valid; any M0 should be clinical. 
+ ● If a patient presents with M1 prior to neoadjuvant systemic therapy, the stage is considered stage IV and remains stage 
+IV regardless of response to neoadjuvant therapy. 
+ ● Stage designation may be changed if postsurgical imaging studies reveal the presence of distant metastases, provided 
+that the studies are carried out within 4 months of diagnosis in the absence of disease progression and provided that 
+the patient has not received neoadjuvant therapy. 
+ ● Postneoadjuvant therapy is designated with “yc” or “yp” preﬁ x. Of note, no stage group is assigned if there is a complete 
+pathologic response (CR) to neoadjuvant therapy, for example, ypT0ypN0cM0. 
+ PROGNOSTIC FEATURES 
+ New biomarkers are added and recommended for collection in addition to hormone receptors 
+(estrogen receptor, ER; progesterone receptor, PgR). These are HER2 (also designated as erbB2 
+and c-neu) status and multigene signature “score” or classiﬁ cations. 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+350 
+American Joint Committee on Cancer • 2010
+metastases have been reﬁ ned to reﬂ ect updates in technol-
+ogy and clinical evidence. 1 In each case, changes in the TNM 
+system were made cautiously, so as to reﬂ ect modern clinical 
+approaches while maintaining connections with the past. The 
+recommendations by the Breast Cancer Task Force for the 
+seventh edition are made in the same spirit. 
+ Rapid advances in both clinical and laboratory science and 
+in translational research have raised questions about the ongo-
+ing relevance of TNM staging, especially in breast cancer. For 
+the most part, the TNM system was developed in 1959 in the 
+absence of effective systemic therapy and certainly in a void of 
+the understanding of the biology of breast cancer that exists 
+today. The system was generated to reﬂ ect the risk of distant 
+recurrence and death subsequent to local therapy, which at the 
+time was almost universally aggressive surgery (radical mastec-
+tomy) and postoperative radiation to the chest wall. Therefore, 
+the primary objective of TNM staging was to provide a stan-
+dard nomenclature for prognosis of patients with newly diag-
+nosed breast cancer, and its main clinical utility was to prevent 
+apparently futile therapy in those patients who were destined 
+to die rapidly in spite of aggressive local treatments. 
+ Over the succeeding decades, remarkable progress has 
+led to (1) less disﬁ guring surgery with modiﬁ ed radical 
+mastectomies and breast conserving therapy, (2) dramatic 
+improvements in the delivery and safety of radiation, (3) the 
+recognition that early (adjuvant) systemic therapy reduces 
+recurrences and mortality, and (4) a better understanding 
+of biologic markers of prognosis, and perhaps more impor-
+tantly, of prediction of response to selective categories of 
+systemic therapy, such as those targeting cancer cells positive 
+for estrogen receptors (ER) and HER2 overexpression. 2 TNM 
+staging has been used as a guide to select whether to apply 
+systemic therapy based on anatomic prognosis. Increasingly, 
+biologic factors, such as ER and HER2, have become impor-
+tant to select which therapy to give. 
+ These advances raise the questions: Is TNM staging still 
+relevant for breast cancer in the twenty-ﬁ rst century and 
+what, exactly, is the objective of TNM staging for patients 
+with this disease? There are three potential answers to the 
+second question: (1) To permit breast cancer investigators to 
+remain linked to the past, in regards to studying categories of 
+patients that accurately reﬂ ect prior groupings over the last 
+six decades, (2) to permit current investigators in the ﬁ eld 
+to communicate with one another in the same manner, and/
+or (3) to improve individual patient care. The AJCC Breast 
+Cancer Task force has struggled with these questions, both 
+for the seventh edition as well as for past editions. Indeed, 
+the Breast Cancer Task Force made a major change from the 
+ﬁ fth edition to the sixth edition in recommending that the 
+N staging category be divided into three categories based on 
+the number of axillary lymph nodes involved. In this regard, 
+the current Breast Cancer Task Force came to the conclu-
+sion that although the TNM staging system provides insight 
+into whether a patient’s prognosis is so favorable the patient 
+might forego systemic therapy, it is becoming anachronistic 
+with regard to making recommendations for speciﬁ c types of 
+systemic therapy. 
+ Although T, N, and M do still provide some value in 
+determining a patient’s future outcome, the average clinician 
+today must take into account multiple factors that relate both 
+to prognosis and prediction. For example, testing for estrogen 
+and progesterone receptor content as well as HER2 status is 
+now considered standard of care. 3 Although these factors do 
+have intrinsic prognostic value in regards to the risk of sub-
+sequent recurrence for patients who do not receive systemic 
+therapy, their main utility is to guide whether a patient should 
+or should not receive adjuvant endocrine (anti-estrogen) or 
+anti-HER2 (such as trastuzumab) therapy. The use of these 
+factors as predictive, rather than prognostic, markers is fun-
+damentally important in evaluation and care of patients with 
+newly diagnosed breast cancer, but the Committee found it 
+difﬁ cult to devise a scheme in which they might be incorpo-
+rated into the TNM system. 
+ The situation has become even more complex with the 
+availability of multigene expression assays. 4 One such assay, 
+based on a 70-gene prognostic signature developed by inves-
+tigators from Amsterdam, 5 has been cleared by the United 
+States Food and Drug Administration for use in women who 
+are less than 61 years old and who have stage I or II, node 
+negative breast cancer, explicitly to “assess a patient’s risk for 
+distant metastases.” (http://www.accessdata.fda.gov/scripts/
+cdrh/cfdocs/cfPMN/pmn.cfm?ID=24303). The Tumor Marker 
+Guidelines Committee of the American Society of Clinical 
+Oncology (ASCO) has recommended that a second multigene 
+assay, which is based on expression of 21-genes as determined 
+by RT-PCR (designated the “21-gene recurrence score assay”) 
+“can be used” to determine prognosis for patients with ER pos-
+itive breast cancer and uninvolved lymph nodes who will, at 
+the least, receive adjuvant tamoxifen, 2  and the Breast Commit-
+tee of the National Comprehensive Cancer Network (NCCN) 
+Guidelines states that “the use of genomic/gene expression 
+arrays which also incorporate additional prognostic/predictive 
+biomarkers (e.g., Oncotype Dx recurrence score) may provide 
+additional prognostic and predictive information beyond ana-
+tomic staging and determination of ER/PR and HER2 status.” 3 
+How do such assays become incorporated into the TNM stag-
+ing system, since they portend future outcomes in several ways? 
+(1) As pure prognostic factors (the proﬁ le predicts the odds of 
+recurrence independent of systemic therapy), 6 , 7 (2) as mark-
+ers of residual risk assuming the patient will receive endocrine 
+therapy (the proﬁ le predicts favorable or unfavorable chances 
+of recurrence presumably due to both prognosis and predic-
+tion of beneﬁ t or resistance to endocrine therapy), 5 , 8 , 9 and (3) 
+perhaps as predictive factors for speciﬁ c types of, or all, chemo-
+therapies. 10 , 11  
+ Should these multiparameter prognostic assays that 
+appear to predict outcomes in newly diagnosed breast can-
+cer patients be included in staging? Since their value may be 
+as much a predictor of response to chemotherapy regardless 
+of TNM stage than as a prognostic factor, should an entirely 
+new category related to prediction of beneﬁ t from systemic 
+therapy be incorporated into the TNM staging system? In 
+other words, increasingly in the modern era, many treatment 
+decisions for patients with newly diagnosed breast cancer are 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+351
+32
+not, or will not be, based on TNM stage. Although the size of 
+the invasive cancer is a factor, the type of surgery for an indi-
+vidual patient is usually determined by multicentricity and 
+tumor margins, neither of which is part of TNM. Perhaps 
+the only exception is the almost universal recommendation 
+of mastectomy, regardless of other factors, for patients with 
+inﬂ ammatory breast cancer. Large tumor size (T3 vs. T1, 2) 
+and lymph node (N 1, 2, or 3 vs. N0) status do play a role in 
+deciding whether radiation should be used after mastectomy 
+or for directing the ﬁ elds of radiation for women undergoing 
+breast preservation and in the recommendation for axillary 
+dissection. However, in an era when many invasive cancers 
+are detected at very small sizes when breast screening is used, 
+multicentricity and tumor margins appear to be as important 
+as T or N in determining optimal local treatment approaches. 
+In the past, recommendations for most systemic therapy, espe-
+cially chemotherapy, have been based on nodal status, and in 
+the absence of involved lymph nodes, tumor size. 12 , 13 However, 
+biologic features such as ER, progesterone receptor, HER2, and 
+to some extent, grade, all play a role in a complex dance involv-
+ing both prognosis and prediction for the speciﬁ c therapies. 
+With ongoing advances in molecular biology and technology, 
+coupled with increasing options for novel systemic therapies, 
+such as agents that interfere with angiogenesis, we anticipate 
+that anatomic staging with tumor size, lymph node status, and 
+the presence of clinical and radiographically evident metastases 
+may play increasingly less important roles than understanding 
+of the biology of the cancer. 
+ While the advances in molecular diagnosis have provided 
+new insights into cancer therapy, the Committee understands 
+that much of this consideration is relevant only to the societ-
+ies in which resources permit widespread screening, molecu-
+lar evaluation of tumor tissue, and application of cutting edge 
+biological-directed therapies. Projecting to 2010, the annual 
+global burden of new breast cancer cases will be 1.5 million 
+and an ever-increasing fraction will be from low and middle 
+income countries (LMCs). 14 Despite the common misconcep-
+tion that breast cancer is predominantly a problem of wealthy 
+countries, the majority of breast cancer deaths each year in 
+fact occur in developing rather than developed countries. In 
+this regard, LMCs may simply not be able to afford testing 
+for individual molecular events or multiparameter proﬁ les, 
+nor will they be able to provide expensive therapies directed 
+against HER2 or other emerging targets. Tissue assays as basic 
+as ER and PR may be unavailable in low income settings, even 
+when oral endocrine therapies can be provided. Further com-
+plicating these resource limitations, women in LMCs typi-
+cally present with locally advanced (Stage III) or metastatic 
+disease (Stage IV) at diagnosis. In these settings, downstaging 
+of disease through early detection programs may be the most 
+practical approach to improving cancer outcome at the popu-
+lation level. 14 Thus, anatomic (TNM) staging remains a key 
+aspect of cancer control in LMCs, because it directly reﬂ ects 
+the degree to which early detection programs are working. 
+While it is of value to continue education regarding the excit-
+ing advances in molecular oncology in LMCs, anatomic 
+staging will remain the fundamental cornerstone on which 
+evaluation and treatment decisions of newly diagnosed breast 
+cancer patients will be made. 
+ Ultimately, and after much deliberation, the Task Force 
+has elected to make minor to modest adjustments to the 
+T, N, and M categories for the seventh edition to reﬂ ect new 
+technologies and new clinical outcome data since the sixth 
+edition. The Task Force has also substantially enhanced the 
+“yp” category to distinguish stage after preoperative, or “neo-
+adjuvant” systemic therapy and surgery. This designation has 
+already been used by other disease groups, and its incorpora-
+tion into the seventh edition seems appropriate in light of the 
+growing application of this strategy. 15 
+ Nonetheless, the Breast Cancer Task Force does not want 
+to ignore the importance of tumor biology, both in predicting 
+recurrence and beneﬁ ts from therapy. The Task Force did con-
+sider adding a “B” category (for biology), in which the status of 
+ER, PR, HER2, and even multigene expression proﬁ les would 
+be incorporated and ultimately added to the Stage Grouping. 
+However, for the reasons above, the Breast Cancer Task Force 
+decided such a step would add little, since they are already used 
+to care for individual patients. Such a change would, by deﬁ ni-
+tion, completely abrogate at least the ﬁ rst objective of TNM 
+staging elucidated above (linkage to the past), and it would 
+almost certainly confuse the second (discussion among peers), 
+since not all clinicians worldwide have access to the neces-
+sary assays to determine them, especially the newer multigene 
+assays. Therefore, although the Breast Cancer Task Force has 
+not recommended changes to the TNM staging system to 
+incorporate biology, we have requested that the invasive can-
+cer data, if available, be collected in a highly detailed manner 
+for inclusion into the National Cancer Database (NCDB) and 
+other central registry databases. Although we recognize that 
+the “prognostic” value of these data will be highly confounded 
+by the effects of systemic therapy we hope this inclusion will 
+permit future investigators to further deﬁ ne the role of these 
+important features in future TNM deliberations.  
+ ANATOMY 
+ Primary Site.   The mammary gland, situated on the ante-
+rior chest wall, is composed of glandular tissue with a dense 
+ﬁ brous stroma. The glandular tissue consists of lobules that 
+group together into 8–15 lobes, occasionally more, arranged 
+approximately in a spoke-like pattern. Multiple major and 
+minor ducts connect the milk-secreting lobular units to the 
+nipple. Small milk ducts course throughout the breast, con-
+verging into larger collecting ducts that open into the lactif-
+erous sinus at the base of the nipple. Each duct system has 
+unique anatomy: the smallest systems may comprise only a 
+portion of a quadrant whereas the largest systems may com-
+prise more than a quadrant. The periphery of each system 
+overlaps along their radial boundaries. Most cancers form 
+initially in the terminal duct lobular units of the breast. Car-
+cinoma spreads along the duct system in the radial axis of 
+the lobe; invasive carcinoma is more likely to spread in a cen-
+tripetal orientation in the breast stroma from the initial locus 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+352 
+American Joint Committee on Cancer • 2010
+of invasion, although opportunistic intraductal spread may 
+be enhanced along the radial axes. Glandular tissue is more 
+abundant in the upper outer portion of the breast; as a result, 
+half of all breast cancers occur in this area. 
+ Chest Wall.   The chest wall includes ribs, intercostal muscles, 
+and serratus anterior muscle, but not the pectoral muscles. 
+Therefore, involvement of the pectoral muscle does not con-
+stitute chest wall invasion. 
+ Regional Lymph Nodes.   The breast lymphatics drain by 
+way of three major routes: axillary, transpectoral, and inter-
+nal mammary. Intramammary lymph nodes reside within 
+breast tissue and are coded as axillary lymph nodes for stag-
+ing purposes. Supraclavicular lymph nodes are classiﬁ ed as 
+regional lymph nodes for staging purposes. Metastases to any 
+other lymph node, including cervical or contralateral internal 
+mammary or axillary lymph nodes, are classiﬁ ed as distant 
+(M1) (Figure  32.1 .) 
+ The regional lymph nodes are as follows:
+  1.  Axillary (ipsilateral): interpectoral (Rotter’s) nodes and 
+lymph nodes along the axillary vein and its tributaries 
+that may be (but are not required to be) divided into 
+the following levels:
+ a.  Level I (low-axilla): lymph nodes lateral to the lat-
+eral border of pectoralis minor muscle. 
+ b.  Level II (mid-axilla): lymph nodes between the 
+medial and lateral borders of the pectoralis minor 
+muscle and the interpectoral (Rotter’s) lymph nodes. 
+ c.  Level III (apical axilla): lymph nodes medial to the 
+medial margin of the pectoralis minor muscle and 
+inferior to the clavicle. These are also known as 
+apical or infraclavicular nodes. Metastases to these 
+nodes portend a worse prognosis. Therefore, the 
+infraclavicular designation will be used hereafter to 
+differentiate these nodes from the remaining (level 
+I, II) axillary nodes. 
+   2.   Internal mammary (ipsilateral): lymph nodes in the 
+intercostal spaces along the edge of the sternum in the 
+endothoracic fascia.  
+  3.  Supraclavicular: lymph nodes in the supraclavicular 
+fossa, a triangle deﬁ ned by the omohyoid muscle and 
+tendon (lateral and superior border), the internal jugu-
+lar vein (medial border), and the clavicle and subclavian 
+vein (lower border). Adjacent lymph nodes outside of 
+this triangle are considered to be lower cervical nodes 
+(M1). 
+   4.   Intramammary: lymph nodes within the breast; these 
+are considered axillary lymph nodes for purposes of N 
+classiﬁ cation and staging. 
+ Metastatic Sites.   Tumor cells may be disseminated by either 
+the lymphatic or the blood vascular system. The four major 
+sites of involvement are bone, lung, brain, and liver, but tumor 
+cells are also capable of metastasizing to many other sites. 
+Bone marrow micrometastases, circulating tumor cells, and 
+tumor deposits no larger than 0.2 mm detected inadvertently, 
+such as in prophylactically removed ovarian tissue, are collec-
+tively known as microscopic disseminated tumor cells (DTCs). 
+These deposits do not alone deﬁ ne or constitute metastatic 
+disease, although there are data that demonstrate that, in early 
+stage disease, DTCs correlate with recurrence and mortality 
+risk, and in patients with established M1 disease, circulating 
+tumor cells (CTCs) are prognostic for shorter survival.  
+ RULES FOR CLASSIFICATION 
+ Clinical Staging.   Clinical staging includes physical exam-
+ination, with careful inspection and palpation of the skin, 
+mammary gland, and lymph nodes (axillary, supraclavicu-
+lar, and cervical), imaging, and pathologic examination of 
+the breast or other tissues as appropriate to establish the 
+diagnosis of breast carcinoma. The extent of tissue exam-
+ined pathologically for clinical staging is not as great as that 
+required for pathologic staging (see “Pathologic Staging” 
+below). Imaging ﬁ ndings are considered elements of stag-
+ing if they are collected within 4 months of diagnosis in the 
+absence of disease progression or through completion of 
+surgery, whichever is longer. Such imaging ﬁ ndings would 
+include the size of the primary invasive cancer and of chest 
+wall invasion, and the presence or absence of regional or dis-
+tant metastases. Imaging and clinical ﬁ ndings obtained after 
+a patient has been treated with neoadjuvant chemotherapy, 
+hormonal therapy, immunotherapy, or radiation therapy 
+are not considered elements of initial clinical staging. If 
+recorded in the medical record, these should be denoted 
+using the modiﬁ er preﬁ x “yc.”  
+ FIGURE 32.1.  Schematic of the breast and regional lymph 
+nodes. 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+353
+32
+ Pathologic Staging.    Pathologic staging includes all data 
+used for clinical staging, plus data from surgical explora-
+tion and resection as well as pathologic examination (gross 
+and microscopic) of the primary carcinoma, regional lymph 
+nodes, and metastatic sites (if applicable), including not less 
+than excision of the primary carcinoma with no macroscopic 
+tumor in any margin of resection by pathologic examination. 
+A cancer can be classiﬁ ed pT for pathologic stage grouping if 
+there is only microscopic, but not macroscopic, involvement 
+at the margin. If there is transected tumor in the margin of 
+resection by macroscopic examination, the pathologic size 
+of the tumor may be estimated from available information 
+but will not necessarily be the sum of the sizes of multiple 
+resected pieces of tumor. 
+ If the primary tumor is invasive (with a possible exception 
+of microinvasive cancer), resection of at least the low axillary 
+lymph nodes (Level I) – that is, those lymph nodes located lat-
+eral to the lateral border of the pectoralis minor muscle – should 
+be performed for pathologic (pN) classiﬁ cation. Such a resec-
+tion will ordinarily include six or more lymph nodes. Alter-
+natively, one or more sentinel lymph nodes may be resected 
+and examined for pathologic classiﬁ cation [pN(sn)]. Certain 
+histologic invasive cancer types [classic tubular carcinoma 
+<1 cm, classic mucinous carcinoma <1 cm, and microinva-
+sive carcinoma (pT1mi)] have a very low incidence of axillary 
+lymph node metastases and may not require an axillary lymph 
+node dissection, although sentinel lymph node biopsy may be 
+appropriate. Cancerous nodules in the axillary fat adjacent to 
+the breast, without histologic evidence of residual lymph node 
+tissue, are classiﬁ ed as regional lymph node metastases ( ≥ N1). 
+Pathologic stage grouping includes the following two combi-
+nations of pathologic and clinical classiﬁ cations: pT pN pM, 
+or pT pN cM. If surgery occurs after the patient has received 
+neoadjuvant chemotherapy, hormonal therapy, immunother-
+apy, or radiation therapy, the preﬁ x “yp” should be used with 
+the TNM classiﬁ cation, for example, ypTNM.  
+ Primary Tumor (T) 
+ Determining Tumor Size.  The original size of a primary 
+tumor (T) can be measured based on clinical ﬁ ndings (physi-
+cal examination and imaging modalities such as mammog-
+raphy, ultrasound, and MRI) and pathologic ﬁ ndings (gross 
+and microscopic measurements). Clinical tumor size (cT) 
+should be based on the clinical ﬁ ndings that are judged to be 
+most accurate for a particular case, although it may still be 
+somewhat inaccurate because the extent of some breast can-
+cers is not always apparent with current imaging techniques, 
+and because tumors are composed of varying proportions of 
+noninvasive and invasive disease, which these techniques are 
+currently unable to distinguish. Pathologic tumor size (pT) 
+based on gross measurement may also be somewhat inaccu-
+rate for the same reasons, although microscopic assessment is 
+able to distinguish noninvasive and invasive carcinoma, and 
+microscopically determined pT should be based on measur-
+ing  only the invasive component . For small invasive tumors 
+that can be submitted in one section/parafﬁ n block, the 
+microscopic measurement is the most accurate way to deter-
+mine pT. If an invasive tumor is too large to be submitted 
+for microscopic evaluation in one tissue section/block, the 
+gross measurement is the preferred method of determining 
+pT. Whichever method is used, pT should be recorded to the 
+nearest millimeter. The size of the primary tumor is measured 
+for T classiﬁ cation before any tissue is removed for special 
+purposes, such as prognostic biomarkers or tumor banking. 
+In patients who have undergone diagnostic core biopsies 
+prior to surgical excision (particularly vacuum-assisted core 
+biopsy sampling), measuring only the residual tumor may 
+result in underclassifying the T component and understaging 
+the tumor, especially with smaller tumors. In such cases, the 
+original invasive cancer size should be estimated and veriﬁ ed 
+based on the best combination of imaging, gross, and micro-
+scopic histological ﬁ ndings. Adding the maximum invasive 
+cancer dimension on the core biopsy to the residual inva-
+sive tumor in the excision is not recommended as this often 
+overestimates maximum tumor dimension. In general, the 
+maximum dimension in either the core biopsy or the excisional 
+biopsy is used for T classiﬁ cation unless imaging dimensions 
+suggest a larger invasive cancer. 
+ For patients who receive neoadjuvant systemic or radia-
+tion therapy, it is not possible to determine a pretreatment 
+pathologic size. Therefore, pretreatment T is deﬁ ned as clini-
+cal (cT). Pretreatment staging is clinical, and the clinical mea-
+surement deﬁ ned from examination and imaging is recorded 
+(cT). Posttreatment (ypT) size should be estimated based on 
+the best combination of imaging, gross, and microscopic his-
+tological ﬁ ndings. The size of some invasive cancers, regard-
+less of previous biopsy or chemotherapy, may be unapparent 
+to any imaging modalities or gross pathologic examination. 
+In these cases, invasive cancer size can be estimated by care-
+fully measuring and recording the relative positions of tissue 
+samples submitted for microscopic evaluation and determin-
+ing which contain invasive cancer. 
+ Tis Classiﬁ cation.   Pure noninvasive carcinoma, or carcinoma 
+in situ, is classiﬁ ed as Tis, with an additional parenthetical 
+subclassiﬁ cation indicating the subtype. Three subtypes are 
+currently recognized, including ductal carcinoma in situ 
+(DCIS), lobular carcinoma in situ (LCIS), and Paget’s dis-
+ease of the nipple with no underlying invasive cancer. These 
+are categorized as Tis (DCIS), Tis (LCIS), and Tis (Paget’s), 
+respectively. “Intraductal carcinoma” is an outmoded term 
+for DCIS, which is still used occasionally, and tumors referred 
+to in this manner (which is discouraged) should be catego-
+rized as Tis (DCIS). “Ductal intraepithelial neoplasia” (DIN) 
+is a recently proposed but uncommonly used terminology 
+encompassing both DCIS and atypical ductal hyperplasia 
+(ADH), and only cases referred to as DIN containing DCIS 
+(±ADH) should be classiﬁ ed as Tis (DCIS). 16 , 17 Similarly, 
+“lobular intraepithelial neoplasia” (LIN) is an uncommon 
+terminology encompassing both atypical lobular hyperplasia 
+(ALH) and LCIS, and only cases referred to as LIN containing 
+LCIS (±ALH) should be classiﬁ ed as Tis (LCIS). 18 DIN and 
+LIN are not widely accepted terminology. “Lobular neoplasia 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+354 
+American Joint Committee on Cancer • 2010
+in situ” is an outmoded term also encompassing both ALH 
+and LCIS, and only tumors referred to in this manner (which 
+is discouraged) containing LCIS (±ALH) should be classiﬁ ed 
+as Tis (LCIS). If DCIS and LCIS are both present, the tumor 
+is currently classiﬁ ed as Tis (DCIS). A recently published 
+Cancer Protocol and Checklist from the College of American 
+Pathology provides much greater detail regarding deﬁ nition 
+and evaluation of in situ cancer of the breast 19 (http://www.
+cap.org). 
+ Paget’s disease is characterized clinically by an exudate or 
+crust of the nipple and areola caused by inﬁ ltration of the epi-
+dermis by noninvasive breast cancer epithelial cells. This con-
+dition usually occurs in one of the following three settings 20 : 
+(1) Associated with an invasive carcinoma in the underlying 
+breast parenchyma. The T classiﬁ cation should be based on 
+the size of the invasive disease. (2) Associated with an under-
+lying noninvasive carcinoma, usually DCIS but rarely LCIS. T 
+classiﬁ cation should be based on the underlying tumor as Tis 
+(DCIS) or Tis (LCIS), accordingly. However, the presence of 
+Paget’s disease associated with invasive or noninvasive carci-
+nomas should still be recorded. (3) Not associated with iden-
+tiﬁ able underlying invasive or noninvasive disease. These are 
+the only lesions that should be classiﬁ ed as Tis (Paget’s). 
+ The size of noninvasive carcinomas does not change their 
+T classiﬁ cation. However, because tumor size may inﬂ uence 
+therapeutic decisions, an estimate of size should be still pro-
+vided based on the best combination of imaging, gross, and 
+microscopic histological ﬁ ndings. 19 Sizing of LCIS may be dif-
+ﬁ cult, but an attempt to do so, based on either clinical/radio-
+graphic and/or pathologic features, is recommended.  
+ Microinvasive Carcinoma.  Microinvasive carcinoma is 
+deﬁ ned as an invasive carcinoma with no focus measuring 
+>1 mm. In cases with only one focus, its microscopic mea-
+surement should be provided. In cases with multiple foci, the 
+pathologist should attempt to quantify the number of foci 
+and the range of their sizes, including the largest, but should 
+not report the size of the tumor as the sum of the sizes. If 
+there are multiple foci, reporting of the number may be difﬁ -
+cult. In these cases, it is recommended that an estimate of the 
+number be provided, or alternatively a note that the number 
+of foci of microinvasion is too numerous to quantify, but that 
+no identiﬁ ed focus is larger than 1.0 mm. Microinvasive car-
+cinoma is nearly always encountered in a setting of DCIS (or, 
+less often, LCIS) where small foci of tumor cells have invaded 
+through the basement membrane into the surrounding 
+stroma, although rare cases are encountered in the absence 
+of noninvasive disease. The prognosis of microinvasive carci-
+noma is generally thought to be quite favorable, although the 
+clinical impact of multifocal microinvasive disease is not well 
+understood at this time. 
+ Multiple Simultaneous Ipsilateral Primary Carcinomas. 
+ Multiple simultaneous ipsilateral primary carcinomas are 
+deﬁ ned as inﬁ ltrating carcinomas in the same breast, which 
+are grossly or macroscopically distinct and measurable using 
+available clinical and pathologic techniques. T stage assign-
+ment in this setting should be based only on the largest 
+tumor, and the sum of the sizes should not be used. How-
+ever, the presence and sizes of the smaller tumor(s) should 
+be recorded using the “(m)” modiﬁ er as deﬁ ned by the TNM 
+rules in Chap. 1. 
+ Invasive cancers that are in close proximity, but are appar-
+ently separate grossly, may represent truly separate tumors 
+or one tumor with a complex shape. Distinguishing these 
+two situations may require judgment and close correlation 
+between pathologic and clinical ﬁ ndings (especially imaging), 
+and preference should be given to the modality thought to be 
+the most accurate in a speciﬁ c case. When macroscopically 
+apparently distinct tumors are very close (e.g., <5 mm), espe-
+cially if they are similar histologically, they are most likely one 
+tumor with a complex shape, and their T category should be 
+based on the largest combined dimension. Careful and com-
+prehensive microscopic evaluation often reveals subtle areas 
+of continuity between tumor foci in this setting. However, 
+contiguous uniform tumor density in the intervening tissue 
+is needed to justify adding two grossly distinct masses. These 
+criteria apply to multiple macroscopically measurable tumors 
+and do not apply to one macroscopic carcinoma associated 
+with multiple separate microscopic (satellite) foci. Tumors 
+along the same approximate radial axis are frequently related 
+and have arisen in the same duct system.  
+ Simultaneous Bilateral Primary Carcinomas.  Each carci-
+noma is staged as a separate primary carcinoma in a separate 
+organ based on its own characteristics, including T category 
+as speciﬁ ed in the TNM rules (see Chap. 1). 
+ Inﬂ ammatory Carcinoma.  Inﬂ ammatory carcinoma is a 
+clinical-pathologic entity characterized by diffuse erythema 
+and edema (peau d’orange) involving a third or more of the 
+skin of the breast. 21  The tumor of inﬂ ammatory carcinoma is 
+classiﬁ ed T4d. It is important to remember that inﬂ amma-
+tory carcinoma is primarily a clinical diagnosis. On imaging, 
+there may be a detectable mass and characteristic thickening 
+of the skin over the breast. An underlying mass may or may 
+not be palpable, although imaging modalities often reveal 
+one. The skin changes are due to lymphedema caused by 
+tumor emboli within dermal lymphatics, which may or may 
+not be obvious in a small skin biopsy. However, a tissue diag-
+nosis is still necessary to demonstrate an invasive carcinoma 
+in the underlying breast parenchyma or at least in the dermal 
+lymphatics, as well as to determine biologic markers, such as 
+estrogen receptor, progesterone receptor, and HER2 status. 
+Tumor emboli in dermal lymphatics without the clinical skin 
+changes described above do not qualify as inﬂ ammatory car-
+cinoma. Locally advanced breast cancers directly invading the 
+dermis or ulcerating the skin without the clinical skin changes 
+and tumor emboli in dermal lymphatics also do not qualify as 
+inﬂ ammatory carcinoma. Thus, the term  inﬂ ammatory carci-
+noma  should not be applied to a patient with neglected locally 
+advanced cancer of the breast presenting late in the course 
+of her disease. The rare case that exhibits all the features of 
+inﬂ ammatory breast carcinoma, but in which skin changes 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+355
+32
+involve less than one third of the skin, should be classiﬁ ed as 
+T4b or T4c. 
+ Skin of Breast.  Dimpling of the skin, nipple retraction, or 
+any other skin change except those described under T4b and 
+T4d may occur in T1, T2, or T3 without changing the clas-
+siﬁ cation.   
+ Regional Lymph Nodes (N) 
+ Macrometastases.  Cases in which regional lymph nodes 
+cannot be assessed (previously removed or not removed for 
+pathologic examination) are designated NX or pNX. Cases 
+in which no regional lymph node metastases are detected are 
+designated cN0 or pN0. 
+ For patients who are clinically node-positive, cN1 desig-
+nates metastases to one or more movable ipsilateral level I, II 
+axillary lymph nodes, cN2a designates metastases to level I, II 
+axillary lymph nodes that are ﬁ xed to each other (matted) or 
+to other structures, and cN3a indicates metastases to ipsilat-
+eral infraclavicular (level III axillary) lymph nodes. Metasta-
+ses to the ipsilateral internal mammary nodes are designated 
+as cN2b when they are detected by imaging studies (including 
+CT scan and ultrasound, but excluding lymphoscintigraphy) 
+or by clinical examination and when they do not occur in 
+conjunction with metastases to the level I, II axillary lymph 
+nodes. Metastases to the ipsilateral internal mammary nodes 
+are designated as cN3b when they are detected by imaging 
+studies or by clinical examination and when they occur in 
+conjunction with metastases to the level I, II axillary lymph 
+nodes. Metastases to the ipsilateral supraclavicular lymph 
+nodes are designated as cN3c regardless of the presence or 
+absence of axillary or internal mammary nodal involvement. 
+Since lymph nodes that are detected by clinical or imaging 
+examination are frequently larger than 1.0 cm, the presence 
+of tumor deposits should be conﬁ rmed by ﬁ ne needle aspi-
+rate or core biopsy with cytologic/histologic examination if 
+possible. Lymph nodes classiﬁ ed as malignant by clinical or 
+imaging characteristics alone, or only by ﬁ ne needle aspirate 
+cytology examination or core biopsy, and not by formal surgi-
+cal dissection and pathologic review, are presumed to contain 
+macrometastases for purposes of clinical staging classiﬁ ca-
+tion. When conﬁ rmed by ﬁ ne needle aspirate or core biopsy, 
+the (f) modiﬁ er should be used to indicate cytologic/histo-
+logic conﬁ rmation, for example, cN2a(f). Pathologic classiﬁ -
+cation rules apply when lymph nodes are removed by surgical 
+excisional biopsy and examined histopathologically. 
+ For patients who are pathologically node-positive with 
+macrometastases, at least one node must contain a tumor 
+deposit greater than 2 mm and all remaining quantiﬁ ed 
+nodes must contain tumor deposits greater than 0.2 mm (at 
+least micrometastases); nodes containing only tumor depos-
+its  ≤ 0.2 mm (ITCs) are excluded from the positive node count 
+for purposes of N classiﬁ cation but should be recorded as 
+additional ITC involved nodes and should be included in the 
+total nodes evaluated. Cases with 1–3 positive level I/II axil-
+lary lymph nodes are classiﬁ ed pN1a; cases with 4–9 positive 
+axillary lymph nodes are classiﬁ ed pN2a, and cases with 10 
+or more positive axillary lymph nodes are classiﬁ ed pN3a. 
+Cases with histologically conﬁ rmed metastases to the internal 
+mammary nodes, detected by sentinel lymph node dissection 
+but not by clinical examination or imaging studies (excluding 
+lymphoscintigraphy), are classiﬁ ed as pN1b if occurring in 
+the  absence of metastases to the axillary lymph nodes and as 
+pN1c if occurring in the  presence  of metastases to 1–3 axil-
+lary lymph nodes. If four or more axillary lymph nodes are 
+involved, and internal mammary sentinel nodes are involved, 
+the classiﬁ cation pN3b is used. Pathologic classiﬁ cation is 
+used when axillary nodes have been histologically examined 
+and clinical involvement of the ipsilateral internal mammary 
+nodes is detected by imaging studies (excluding lymphoscin-
+tigraphy); in the absence or presence of axillary nodal metas-
+tases, pN2b and pN3b classiﬁ cation is used, respectively. 
+ Histologic evidence of metastases in ipsilateral supra-
+clavicular lymph node(s) is classiﬁ ed as pN3c. A classiﬁ cation 
+of pN3, regardless of primary tumor size or grade, is classiﬁ ed 
+as Stage IIIC. A case in which the classiﬁ cation is based only 
+on sentinel lymph node biopsy is given the additional desig-
+nation (sn) for “sentinel node” – for example, pN1(sn). For 
+a case in which an initial classiﬁ cation is based on a sentinel 
+lymph node biopsy but a standard axillary lymph node dis-
+section is subsequently performed, the classiﬁ cation is based 
+on the total results of both the axillary lymph node dissec-
+tion and the sentinel node biopsy, and the (sn) modiﬁ er is 
+removed. The (sn) modiﬁ er indicates that nodal classiﬁ cation 
+is based on less than an axillary dissection. When the com-
+bination of sentinel and nonsentinel nodes removed is less 
+than a standard low axillary dissection (less than six nodes) 
+the (sn) modiﬁ er is used. The number of quantiﬁ ed nodes 
+for staging is generally the number of grossly identiﬁ ed, his-
+tologically conﬁ rmed lymph nodes. Care should be taken to 
+avoid overcounting sectioned nodes or sectioned adipose tis-
+sue with no grossly apparent nodes. 
+ The ﬁ rst priority in pathologic evaluation of lymph nodes 
+is to identify all macrometastases (metastases larger than 
+2.0 mm). The entire lymph node should be submitted for 
+evaluation and larger nodes should be bisected or thinly sliced 
+no thicker than 2.0 mm. A single histologic section of each 
+slice has a high probability of detecting all macrometastases 
+present although the largest dimension of the metastases may 
+not be represented. More comprehensive evaluation of lymph 
+node parafﬁ n blocks is not required for staging; however, 
+techniques such as multilevel sectioning and immunohis-
+tochemistry will identify additional tumor deposits, typically 
+less than or equal to 2.0 mm [micrometastases and isolated 
+tumor cell clusters (ITCs)]. It is not recommended that nodal 
+tissue that may contain a macrometastasis be diverted for 
+experimental or alternative testing, such as molecular analy-
+sis, if this diversion would potentially result in the pathologist 
+missing macrometastases detectable by routine microscopic 
+examination. 
+ Isolated Tumor Cell Clusters and Micrometastases.  ITCs 
+are deﬁ ned as small clusters of cells not greater than 0.2 mm 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+356 
+American Joint Committee on Cancer • 2010
+in largest dimension, or single cells, usually with little if any 
+histologic stromal reaction. ITCs may be detected by routine 
+histology or by immunohistochemical (IHC) methods. When 
+no single metastasis larger than 0.2 mm is identiﬁ ed, regard-
+less of the number of nodes containing ITCs, the regional 
+lymph nodes should be designated as pN0(i+) or pN0(i+)
+(sn), as appropriate, and the number of ITC-involved nodes 
+should be noted. 
+ Approximately 1,000 tumor cells are contained in a three-
+dimensional 0.2-mm cluster. Thus, if more than 200 individ-
+ual tumor cells are identiﬁ ed as single dispersed tumor cells 
+or as a nearly conﬂ uent elliptical or spherical focus in a single 
+histologic section of a lymph node there is a high probability 
+that more than 1,000 cells are present in the lymph node. In 
+these situations, the node should be classiﬁ ed as containing 
+a micrometastasis (pN1mi). Cells in different lymph node 
+cross or longitudinal sections or levels of the block are not 
+added together; the 200 cells must be in a single node proﬁ le 
+even if the node has been thinly sectioned into multiple slices. 
+It is recognized that there is substantial overlap between the 
+upper limit of the ITC and the lower limit of the microme-
+tastasis categories due to inherent limitations in pathologic 
+nodal evaluation and detection of minimal tumor burden 
+in lymph nodes. Thus, the threshold of 200 cells in a single 
+cross-section is a guideline to help pathologists distinguish 
+between these two categories. The pathologist should use 
+judgment regarding whether it is likely that the cluster of cells 
+represents a true micrometastasis or is simply a small group 
+of isolated tumor cells. 
+ Micrometastases are deﬁ ned as tumor deposits greater 
+than 0.2 mm but not greater than 2.0 mm in largest dimen-
+sion. Cases in which at least one micrometastasis is detected 
+but no metastases greater than 2 mm (macrometastases) are 
+detected, regardless of the number of involved nodes, are clas-
+siﬁ ed pN1mi or pN1mi(sn), as appropriate, and the number 
+of involved nodes should be noted. 
+ The size of a tumor deposit is determined by measuring 
+the largest dimension of any group of cells that are touching 
+one another (conﬂ uent or contiguous tumor cells) regardless 
+of whether the deposit is conﬁ ned to the lymph node, extends 
+outside the node (extranodal or extracapsular extension), or is 
+totally present outside the lymph node and invading adipose. 
+When there are multiple tumor deposits in a lymph node, 
+whether ITCs or micrometastases, the size of only the largest 
+contiguous tumor deposit is used to classify the node; do not 
+use the sum of all individual tumor deposits. When a tumor 
+deposit has induced a ﬁ brous (desmoplastic) stromal reac-
+tion, the combined contiguous dimension of tumor cells and 
+ﬁ brosis determines size of the metastasis. When a single case 
+contains multiple positive lymph nodes and the largest tumor 
+deposit in each node is categorically distinct, the number of 
+nodes in each category (macrometastases, micrometastases, 
+ITCs) may be recorded separately to facilitate N classiﬁ cation 
+as described previously. 
+ If histologically negative lymph nodes are examined for 
+evidence of unique tumor or epithelial cell markers using 
+molecular 
+methods 
+[reverse 
+transcriptase–polymerase 
+chain reaction (RT-PCR)] and these markers are detected, 
+the regional lymph nodes are classiﬁ ed as pN0(mol+) or 
+pN0(mol+)(sn), as appropriate. Sacriﬁ cing lymph node tissue 
+for molecular analysis that would otherwise be available for 
+histologic evaluation and staging is not recommended par-
+ticularly when the size of the sacriﬁ ced tissue is large enough 
+to contain a macrometastasis. If these data are generated, they 
+should be collected by the registrar. 
+ Distant Metastases (M).   Cases in which there are no dis-
+tant metastases as determined by clinical and/or radiographic 
+methods are designated cM0, and cases in which one or more 
+distant metastases are identiﬁ ed by clinical and/or radio-
+graphic methods are designated cM1. Positive supraclavicular 
+lymph nodes are classiﬁ ed as N3 (see previous discussion). A 
+case is classiﬁ ed as clinically free of metastases (cM0) unless 
+there is documented evidence of metastases by clinical means 
+(cM1) or by biopsy of a metastatic site (pM1). M stage of 
+breast cancer refers to the classiﬁ cation of clinically signiﬁ -
+cant distant metastases, which typically distinguishes whether 
+or not there is a potential for long-term cure. The ascertain-
+ment of M stage requires evaluations consisting of a review of 
+systems, physical examination and often also includes radio-
+graphic imaging, blood work, and tissue biopsy. The types of 
+examinations needed in each case may vary and guidelines for 
+these are available. 22  M classiﬁ cation is based on best clinical 
+and radiographic interpretation, but pathologic conﬁ rmation 
+is recommended, although it may not be obtained for rea-
+sons of feasibility or safety. Additionally, M stage assessment 
+may not yield a deﬁ nitive answer on the initial set of evalua-
+tions, and follow-up studies may be needed such that the ﬁ nal 
+determination is a recursive and iterative process, assuming 
+that the area of question was present at the time of diagnosis 
+of the primary breast cancer. In these cases, the designated 
+stage should remain M0 unless a deﬁ nitive designation is 
+made that the patient truly had detectable metastases at the 
+time of diagnosis, based on the guidelines that follow. Subse-
+quent development of new metastases in areas not previously 
+thought to be suspicious does not change the patient’s origi-
+nal stage and the patient would now be considered to have 
+converted to recurrent Stage IV, which is considered recurrent 
+disease without altering the original stage. 
+ Physical Examination.  Detection of metastatic disease by 
+clinical exam should include a full physical examination with 
+focused detail based on symptoms and radiographic ﬁ ndings. 
+When appropriate, serial physical examinations based on evolv-
+ing symptoms, physical ﬁ ndings, radiographic ﬁ ndings, and/or 
+laboratory ﬁ ndings should be done on an iterative basis. Physi-
+cal ﬁ ndings alone rarely will provide the basis for assigning 
+M1 stage, and radiographic studies are almost always required. 
+Whenever feasible, biopsy conﬁ rmation should be performed. 
+ Radiographic Studies.   It is not necessary for the patient to 
+have radiological evaluation of distant sites to be classiﬁ ed as 
+clinically free of metastases. The indication for the indicated 
+radiographic evaluation for the presence of an M lesion in the 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+357
+32
+staging of breast cancer is uncertain and varies by T and N 
+stage category. Certainly, all guidelines stipulate that suspicious 
+ﬁ ndings in the history or physical examination, and/or ele-
+vated serologic tests for liver or bone function, are indications 
+to proceed with radiographic systemic imaging, such as bone 
+or body scintigraphy or anatomic, cross-sectional imaging. 
+Most experts agree that systemic radiographic staging evalua-
+tion for metastases is not warranted in asymptomatic patients 
+with normal blood tests who have T1-2, N0 breast cancer, and 
+likewise most experts agree that staging is appropriate for 
+patients with Stage III disease (clinical or pathologic). Rec-
+ommendations are mixed for patients with T2N1. 
+ Regardless, staging studies should focus on common sites 
+of metastatic disease and/or sites indicated by symptoms or 
+blood tests. Certain ﬁ ndings such as multiple lesions with 
+classical characteristics of metastases, and clear changes from 
+earlier studies may provide a very high index of suspicion 
+and result in M1 classiﬁ cation. With radiographic screening 
+or evaluation for another cause, false positive staging stud-
+ies in patients with newly diagnosed breast cancer are rela-
+tively common. Pathologic conﬁ rmation of metastatic disease 
+should be performed whenever feasible. 
+ Tissue Biopsy.   The type of biopsy of a suspicious lesion 
+should be guided by the location of the suspected metastases 
+along with patient preference, safety, and the expertise and 
+equipment available to the care team. Fine needle aspiration 
+(FNA) is adequate, especially for visceral lesions and with 
+the availability of experienced cytopathologic interpretation. 
+Negative FNA or cellular atypia might carry a signiﬁ cant risk 
+of false negativity, especially in bony or scirrhous lesions, so 
+consideration of repeat FNA or other biopsy techniques such 
+as core needle or open surgical biopsy may be warranted. 
+Histopathologic examination should include standard H&E 
+staining and in some cases may require additional immuno-
+histochemical staining or other specialized testing for con-
+ﬁ rmation of breast cancer or other cancer type. If adequate 
+biomarker data (estrogen receptor, progesterone receptor, 
+HER2) are not available from the primary tumor, these should 
+be obtained on any other biopsy that shows cancer on H&E 
+staining. Special caution should be taken with evaluation of 
+tumor markers in tissue collected from bone biopsies. Decal-
+ciﬁ cation procedures may create false negative results for both 
+immunohistochemistry (IHC) and ﬂ uorescent in situ hybrid-
+ization (FISH). Incidentally detected cancer cells, clusters of 
+cancer cells or foci  ≤ 0.2 mm, or circulating tumor cells that 
+are otherwise clinically and radiographically silent should not 
+alone constitute M1 disease and are discussed below. 
+ Laboratory Abnormalities.   Patients with abnormal liver func-
+tion tests should undergo liver imaging, whereas those with 
+elevated alkaline phosphatase or calcium levels, or suggestive 
+symptoms, should undergo bone imaging and/or scintigra-
+phy. Unexplained anemia and other cytopenias require a full 
+hematologic evaluation (e.g., examination of the peripheral 
+smear, iron studies, B12/folate levels) and should be investi-
+gated with bone imaging and a bone marrow biopsy depend-
+ing on the results of the evaluation. Other unexplained 
+laboratory abnormalities such as elevations in renal function 
+should also prompt appropriate imaging tests. Elevated tumor 
+markers are known to be associated with variable degrees of 
+false positivity and their use has not been shown to improve 
+outcome. The routine ordering of these tests, such as CA 15-3, 
+CA 27.29, CEA, and other protein-based markers for staging 
+is not indicated. 2 
+ Circulating Tumor Cells, Bone Marrow Micrometastases, and 
+Disseminated Tumor Cells.  The presence of circulating tumor 
+cells (CTCs) in the blood or micrometastases ( ≤ 0.2 mm) in the 
+bone marrow or other nonregional nodal tissues should not be 
+used to deﬁ ne M stage in the absence of other apparent clini-
+cal and/or radiographic ﬁ ndings that correspond to pathologic 
+ﬁ ndings. However, an increasing number of studies are show-
+ing microscopic bone marrow and circulating tumor cells in 
+M0 disease to be prognostic for recurrence or survival. Thus, 
+denotation of histologically visible micrometastases in bone 
+marrow, blood, or other organs distant from the breast and 
+regional lymph nodes should be denoted by the term M0(i+). 
+For M1 stage breast cancer (clinically and/or radiographically 
+detectable metastases), the enumeration of CTCs at the time of 
+diagnosis of metastatic disease has been shown to strongly cor-
+relate with survival, but neither the presence nor the number of 
+CTCs will change the overall classiﬁ cation.    
+ OUTCOMES 
+ Figure  32.2 shows percent survival at 5 years by size of primary 
+tumor and number of nodes involved. Figure  32.3 shows 
+observed survival rates for 211,645 cases with carcinoma of 
+the breast diagnosed in years 2001–2002. 
+ FIGURE 32.2.  Percent survival at 5 years by size of primary 
+tumor and number of nodes involved. 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+358 
+American Joint Committee on Cancer • 2010
+ DEFINITIONS OF TNM 
+ The increasing use of neoadjuvant therapy in breast can-
+cer and the documented prognostic impact of postneoad-
+juvant extent of disease and response to therapy warrant 
+clear definitions of the use of the “yp” prefix and response 
+to therapy. The use of neoadjuvant therapy does not change 
+the clinical (pretreatment) stage. As per TNM rules, the 
+clinical stage is identified with the prefix “c”. In addition, 
+the use of fine needle aspiration and sentinel lymph node 
+biopsy before neoadjuvant therapy is denoted with the sub-
+scripts “f” and “sn,” respectively. Nodal metastases detected 
+by FNA or core biopsy are classified as macrometastases 
+(N1) regardless of the size of the tumor focus in the final 
+pathologic specimen. For example, if, prior to neoadjuvant 
+systemic therapy, a patient has no palpable nodes but has 
+an ultrasound-guided FNA biopsy of an axillary lymph 
+node that is positive, the patient will be categorized as cN1 
+(f) for her clinical (pretreatment) staging and would be 
+considered as stage IIA. Likewise, if the patient has a posi-
+tive axillary sentinel node identified prior to neoadjuvant 
+systemic therapy, the patient will be categorized as cN1 
+(sn) (Stage IIA). 
+ As per TNM rules, with the absence of pathologic T eval-
+uation (removal of the primary tumor), microscopic evalua-
+tion of nodes before neoadjuvant therapy is still classiﬁ ed as 
+clinical “c.” 
+ Primary Tumor (T) 
+The T classiﬁ cation of the primary tumor is the same 
+regardless of whether it is based on clinical or pathologic 
+criteria, or both. Size should be measured to the nearest 
+millimeter. If the tumor size is slightly less than or greater 
+than a cutoff for a given T classiﬁ cation, it is recom-
+mended that the size be rounded to the millimeter read-
+ing that is closest to the cutoff. For example, a reported 
+size of 1.1 mm is reported as 1 mm, or a size of 2.01 cm 
+is reported as 2.0 cm. Designation should be made with 
+the subscript “c” or “p” modiﬁ er to indicate whether 
+the T classiﬁ cation was determined by clinical (physical 
+examination or radiologic) or pathologic measurements, 
+respectively. In general, pathologic determination should 
+take precedence over clinical determination of T size.
+ TX 
+ Primary tumor cannot be assessed 
+ T0 
+ No evidence of primary tumor 
+ Tis 
+ Carcinoma in situ 
+ Tis (DCIS) 
+ Ductal carcinoma in situ 
+ Tis (LCIS) 
+ Lobular carcinoma in situ 
+ Tis (Paget’s) 
+ Paget’s disease of the nipple NOT associ-
+ated with invasive carcinoma and/or car-
+cinoma in situ (DCIS and/or LCIS) in the 
+underlying breast parenchyma. Carcino-
+mas in the breast parenchyma associated 
+with Paget’s disease are categorized based 
+on the size and characteristics of the paren-
+chymal disease, although the presence of 
+Paget’s disease should still be noted 
+ T1 
+ Tumor  ≤ 20 mm in greatest dimension 
+ T1mi 
+ Tumor  ≤ 1 mm in greatest dimension 
+ T1a 
+ Tumor >1 mm but  ≤ 5 mm in greatest 
+dimension 
+ T1b 
+ Tumor >5 mm but  ≤ 10 mm in greatest 
+dimension 
+ T1c 
+ Tumor >10 mm but  ≤ 20 mm in greatest 
+dimension 
+ T2 
+ Tumor >20 mm but  ≤ 50 mm in greatest 
+dimension 
+ T3 
+ Tumor >50 mm in greatest dimension 
+ T4 
+ Tumor of any size with direct extension 
+to the chest wall and/or to the skin (ulcer-
+ation or skin nodules). 
+Note: Invasion of the dermis alone does not qualify as T4 
+ T4a 
+ Extension to the chest wall, not including 
+only pectoralis muscle adherence/invasion 
+ T4b 
+ Ulceration and/or ipsilateral satellite 
+nodules and/or edema (including peau 
+d’orange) of the skin, which do not meet 
+the criteria for inﬂ ammatory carcinoma 
+ T4c 
+ Both T4a and T4b 
+ T4d 
+ Inflammatory carcinoma (see “Rules for 
+Classification”) 
+ FIGURE 32.3.    Observed survival rates for 211,645 cases with 
+carcinoma of the breast. Data from the National Cancer Data 
+Base (Commission on Cancer of the American College of 
+Surgeons and the American Cancer Society) diagnosed in years 
+2001–2002. Stage 0 includes 30,263; Stage I, 85,278; Stage IIA, 
+43,047; Stage IIB, 17,665; Stage IIIA, 13,983; Stage IIIB, 4,533; 
+Stage IIIC, 6,741; and Stage IV, 10,135. 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+359
+32
+ Posttreatment ypT.  Clinical (pretreatment) T will be deﬁ ned by 
+clinical and radiographic ﬁ ndings, while y pathologic (posttreat-
+ment) T will be determined by pathologic size and extension. 
+The ypT will be measured as the largest single focus of invasive 
+tumor, with the modiﬁ er “m” indicating multiple foci. The mea-
+surement of the largest tumor focus should not include areas of 
+ﬁ brosis within the tumor bed. The inclusion of additional infor-
+mation in the pathology report such as the distance over which 
+tumor foci extend, the number of tumor foci present, or the 
+number of slides/blocks in which tumor appears may assist 
+the clinician in estimating the extent of disease. A comparison 
+of the cellularity in the initial biopsy to that in the posttreatment 
+specimen may also aid in the assessment of response. 
+ Note : If a cancer was designated as inﬂ ammatory before neo-
+adjuvant chemotherapy, the patient will be designated to have 
+inﬂ ammatory breast cancer throughout, even if the patient 
+has complete resolution of inﬂ ammatory ﬁ ndings. 
+ Regional Lymph Nodes (N) 
+ Clinical 
+ NX 
+ Regional lymph nodes cannot be assessed (e.g., 
+previously removed) 
+ N0 
+ No regional lymph node metastases 
+ N1 
+ Metastases to movable ipsilateral level I, II axillary 
+lymph node(s) 
+ N2 
+ Metastases in ipsilateral level I, II axillary lymph 
+nodes that are clinically ﬁ xed or matted; or in 
+clinically detected * ipsilateral internal mammary 
+nodes in the  absence  of clinically evident axillary 
+lymph node metastases 
+ N2a 
+ Metastases in ipsilateral level I, II axillary lymph 
+nodes ﬁ xed to one another (matted) or to other 
+structures 
+ N2b 
+ Metastases only in clinically detected * ipsilateral inter-
+nal mammary nodes and in the  absence of clinically 
+evident level I, II axillary lymph node metastases 
+ N3 
+ Metastases in ipsilateral infraclavicular (level III axil-
+lary) lymph node(s) with or without level I, II axillary 
+lymph node involvement; or in clinically detected * 
+ipsilateral internal mammary lymph node(s) with 
+clinically evident level I, II axillary lymph node 
+metastases; or metastases in ipsilateral supraclavicu-
+lar lymph node(s) with or without axillary or inter-
+nal mammary lymph node involvement 
+ N3a 
+ Metastases in ipsilateral infraclavicular lymph 
+node(s) 
+ N3b 
+ Metastases in ipsilateral internal mammary lymph 
+node(s) and axillary lymph node(s) 
+ N3c 
+ Metastases in ipsilateral supraclavicular lymph 
+node(s) 
+ * Note :  Clinically detected is deﬁ ned as detected by imaging stud-
+ies (excluding lymphoscintigraphy) or by clinical examination 
+and having characteristics highly suspicious for malignancy or 
+a presumed pathologic macrometastasis based on ﬁ ne needle 
+aspiration biopsy with cytologic examination. Conﬁ rmation 
+of clinically detected metastatic disease by ﬁ ne needle aspira-
+tion without excision biopsy is designated with an (f) sufﬁ x, for 
+example, cN3a(f). Excisional biopsy of a lymph node or biopsy 
+of a sentinel node, in the absence of assignment of a pT, is clas-
+siﬁ ed as a clinical N, for example, cN1. Information regarding 
+the conﬁ rmation of the nodal status will be designated in site-
+speciﬁ c factors as clinical, ﬁ ne needle aspiration, core biopsy, 
+or sentinel lymph node biopsy. Pathologic classiﬁ cation (pN) 
+is used for excision or sentinel lymph node biopsy only in con-
+junction with a pathologic T assignment.  
+ Pathologic (pN) * 
+ pNX  
+ Regional lymph nodes cannot be assessed (e.g., 
+previously removed, or not removed for patho-
+logic study) 
+ pN0  
+ No regional lymph node metastasis identiﬁ ed 
+histologically 
+ Note : Isolated tumor cell clusters (ITC) are deﬁ ned as small 
+clusters of cells not greater than 0.2 mm, or single tumor 
+cells, or a cluster of fewer than 200 cells in a single histo-
+logic cross-section. ITCs may be detected by routine histol-
+ogy or by immunohistochemical (IHC) methods. Nodes 
+containing only ITCs are excluded from the total positive 
+node count for purposes of N classiﬁ cation but should be 
+included in the total number of nodes evaluated. 
+ pN0(i−) 
+ No regional lymph node metastases histo-
+logically, negative IHC 
+ pN0(i+) 
+ Malignant cells in regional lymph node(s) no 
+greater than 0.2 mm (detected by H&E or IHC 
+including ITC) 
+ pN0
+(mol−) 
+ No regional lymph node metastases histolog-
+ically, negative molecular ﬁ ndings (RT-PCR) 
+ pN0
+(mol+) 
+ Positive molecular ﬁ ndings (RT-PCR), ** but 
+no regional lymph node metastases detected 
+by histology or IHC 
+ pN1 
+ Micrometastases; or metastases in 1–3 axil-
+lary lymph nodes; and/or in internal mam-
+mary nodes with metastases detected by 
+sentinel lymph node biopsy but not clinically 
+detected *** 
+ pN1mi 
+ Micrometastases (greater than 0.2 mm and/
+or more than 200 cells, but none greater than 
+2.0 mm) 
+ pN1a 
+ Metastases in 1–3 axillary lymph nodes, at least 
+one metastasis greater than 2.0 mm 
+ pN1b 
+ Metastases in internal mammary nodes 
+with micrometastases or macrometastases 
+detected by sentinel lymph node biopsy but 
+not clinically detected *** 
+ pN1c 
+ Metastases in 1–3 axillary lymph nodes and in 
+internal mammary lymph nodes with microme-
+tastases or macrometastases detected by sentinel 
+lymph node biopsy but not clinically detected 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+360 
+American Joint Committee on Cancer • 2010
+Pathologic (pN)* (Continued)
+ pN2 
+ Metastases in 4–9 axillary lymph nodes; or 
+in clinically detected ****  internal mam-
+mary lymph nodes in the  absence of axil-
+lary lymph node metastases 
+ pN2a 
+ Metastases in 4–9 axillary lymph nodes (at 
+least one tumor deposit greater than 2.0 mm) 
+ pN2b 
+ Metastases in clinically detected **** inter-
+nal mammary lymph nodes in the  absence 
+of axillary lymph node metastases 
+ pN3 
+ Metastases in ten or more axillary lymph 
+nodes; or in infraclavicular (level III axillary) 
+lymph nodes; or in clinically detected ****  
+ipsilateral internal mammary lymph nodes in 
+the  presence of one or more positive level I, II 
+axillary lymph nodes; or in more than three 
+axillary lymph nodes and in internal mam-
+mary lymph nodes with micrometastases or 
+macrometastases detected by sentinel lymph 
+node biopsy but not clinically detected *** ; or 
+in ipsilateral supraclavicular lymph nodes 
+ pN3a 
+ Metastases in ten or more axillary lymph 
+nodes (at least one tumor deposit greater 
+than 2.0 mm); or metastases to the infra-
+clavicular (level III axillary lymph) nodes 
+ pN3b 
+ Metastases in clinically detected **** ipsi-
+lateral internal mammary lymph nodes in 
+the  presence of one or more positive axillary 
+lymph nodes; or in more than three axil-
+lary lymph nodes andin internal mammary 
+lymph nodes with micro metastases or mac-
+rometastases detected by sentinel lymph 
+node biopsy but not clinically detected ***  
+ pN3c 
+ Metastases in ipsilateral supraclavicular 
+lymph nodes 
+ Notes: 
+ * Classiﬁ cation is based on axillary lymph node dissection 
+with or without sentinel lymph node biopsy. Classiﬁ cation 
+based solely on sentinel lymph node biopsy without subse-
+quent axillary lymph node dissection is designated (sn) for 
+“sentinel node,” for example, pN0(sn). 
+ ** RT-PCR: reverse transcriptase/polymerase chain reaction. 
+  *** “Not clinically detected” is deﬁ ned as not detected by imag-
+ing studies (excluding lymphoscintigraphy) or not detected 
+by clinical examination. 
+ **** “Clinically detected” is deﬁ ned as detected by imaging 
+studies (excluding lymphoscintigraphy) or by clinical exami-
+nation and having characteristics highly suspicious for malig-
+nancy or a presumed pathologic macrometastasis based on 
+ﬁ ne needle aspiration biopsy with cytologic examination. 
+ Posttreatment ypN 
+ 
+● Post-treatment yp “N” should be evaluated as for clini-
+cal (pretreatment) “N” methods above. The modiﬁ er 
+“sn” is used only if a sentinel node evaluation was per-
+formed after treatment. If no subscript is attached, it is 
+assumed that the axillary nodal evaluation was by axil-
+lary node dissection (AND). 
+ 
+● The X classiﬁ cation will be used (ypNX) if no yp post-
+treatment SN or AND was performed 
+ 
+● N categories are the same as those used for pN. 
+Distant Metastases (M)
+M0
+No clinical or radiographic evidence of dis-
+tant metastases
+cM0(i+)
+No clinical or radiographic evidence of dis-
+tant metastases, but deposits of molecularly 
+or microscopically detected tumor cells in 
+circulating blood, bone marrow, or other 
+nonregional nodal tissue that are no larger 
+than 0.2 mm in a patient without symptoms 
+or signs of metastases
+M1
+Distant detectable metastases as determined by 
+classic clinical and radiographic means and/or 
+histologically proven larger than 0.2 mm
+ Posttreatment yp M classiﬁ cation.   The M category for patients 
+treated with neoadjuvant therapy is the category assigned in 
+the clinical stage, prior to initiation of neoadjuvant therapy. 
+Identiﬁ cation of distant metastases after the start of therapy 
+in cases where pretherapy evaluation showed no metastases is 
+considered progression of disease. If a patient was designated 
+to have detectable distant metastases (M1) before chemother-
+apy, the patient will be designated as M1 throughout. 
+ ANATOMIC STAGE/PROGNOSTIC GROUPS 
+Stage 0
+Tis
+N0
+M0
+ Stage IA 
+ T1 * 
+ N0 
+ M0 
+ Stage IB 
+ T0 
+ N1mi 
+ M0 
+ T1 * 
+ N1mi 
+ M0 
+ Stage IIA 
+ T0 
+ N1 ** 
+ M0 
+ T1 * 
+ N1 ** 
+ M0 
+ T2 
+ N0 
+ M0 
+ Stage IIB 
+ T2 
+ N1 
+ M0 
+ T3 
+ N0 
+ M0 
+ Stage IIIA 
+ T0 
+ N2 
+ M0 
+ T1 * 
+ N2 
+ M0 
+ T2 
+ N2 
+ M0 
+ T3 
+ N1 
+ M0 
+ T3 
+ N2 
+ M0 
+ Stage IIIB 
+ T4 
+ N0 
+ M0 
+ T4 
+ N1 
+ M0 
+ T4 
+ N2 
+ M0 
+ Stage IIIC 
+ Any T 
+ N3 
+ M0 
+ Stage IV 
+ Any T 
+ Any N 
+ M1 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+361
+32
+ Notes: 
+ * T1 includes T1mi. 
+ ** T0 and T1 tumors with nodal micrometastases only are excluded from 
+Stage IIA and are classiﬁ ed Stage IB.
+ ● M0 includes M0(i+). 
+ ● The designation pM0 is not valid; any M0 should be clinical.  
+ ● If a patient presents with M1 prior to neoadjuvant systemic therapy, the 
+stage is considered Stage IV and remains Stage IV regardless of response 
+to neoadjuvant therapy.  
+ ● Stage designation may be changed if postsurgical imaging studies reveal 
+the presence of distant metastases, provided that the studies are carried 
+out within 4 months of diagnosis in the absence of disease progression 
+and provided that the patient has not received neoadjuvant therapy.  
+ ● Postneoadjuvant therapy is designated with “yc” or “yp” preﬁ x. Of note, 
+no stage group is assigned if there is a complete pathologic response (CR) 
+to neoadjuvant therapy, for example, ypT0ypN0cM0. 
+ PROGNOSTIC FACTORS (SITE-SPECIFIC FACTORS)
+(Recommended for Collection) 
+ Required 
+for staging 
+ None 
+ Clinically 
+signiﬁ cant 
+ Paget’s disease 
+ Tumor grade (Scarff–Bloom–Richardson 
+system) 
+ Estrogen receptor and test method (IHC, 
+RT-PCR, other) 
+ Progesterone receptor and test method 
+(IHC, RT-PCR, other) 
+ HER2 status and test method (IHC, FISH, 
+CISH, RT-PCR, other) 
+ Method of lymph node assessment (e.g., 
+clinical, ﬁ ne needle aspiration; core biopsy; 
+sentinel lymph node biopsy) 
+ IHC of regional lymph nodes 
+ Molecular studies regional lymph nodes 
+ Distant metastases method of detection 
+(clinical, radiographic, biopsy) 
+ Circulating tumor cells (CTC) and method 
+of detection (RT-PCR, immunomagnetic 
+separation, other) 
+ Disseminated tumor cells (DTC; bone 
+marrow micrometastases) and method of 
+detection (RT-PCR, immunohistochemi-
+cal, other) 
+ Multigene signature score 
+Response to 
+neoadjuvant 
+therapy
+ Will be collected in the registry but does 
+not affect the postneoadjuvant stage    
+ Complete 
+response 
+(CR) 
+ Pathologic complete response can only be 
+determined by histopathologic evaluation 
+and is deﬁ ned by the absence of invasive 
+carcinoma in the breast and lymph nodes. 
+ Residual in situ cancer, in the absence of 
+invasive disease, constitutes a pCR. 
+ Patients with isolated tumor foci in lymph 
+nodes are not classiﬁ ed as having a CR. The 
+presence of axillary nodal tumor deposits 
+of any size, including cell clusters less than 
+or equal to 0.2 mm, excludes a complete 
+response. These patients will be catego-
+rized as ypN0(i+). 
+ Partial 
+response 
+(PR) 
+ A decrease in either or both the T or N cat-
+egory compared to the pretreatment T or N, 
+and no increase in either T or N. After che-
+motherapy, one should use the method that 
+most clearly deﬁ ned tumor dimensions at 
+baseline for this comparison, although pre-
+chemotherapy pT cannot be measured. 
+ Clinical (pretreatment) T will be deﬁ ned 
+by clinical and radiographic ﬁ ndings. y 
+pathologic (posttreatment) T will be deter-
+mined by pathologic size and extension. 
+ Nodal response should be determined by 
+physical examination or radiologic evalu-
+ation, if the nodes are palpable or visible 
+before chemotherapy. If prechemotherapy 
+pathologic lymph node involvement is 
+demonstrated by ﬁ ne needle aspiration, core 
+biopsy, or sentinel node biopsy, it should 
+be recorded as such. Absence of posttreat-
+ment pathologic nodal involvement should 
+be used to document pathologic complete 
+response, and should be recorded, but does 
+not necessarily represent a true “response” 
+since one does not know whether lymph 
+nodes removed surgically postchemother-
+apy were involved prior to chemotherapy. 
+ No response 
+(NR) 
+ No apparent change in either the T or N 
+categories compared to the clinical (pre-
+treatment) assignment or an increase in 
+the T or N category at the time of y patho-
+logic evaluation. 
+ Clinical (pretreatment) T will be deﬁ ned 
+by clinical and radiographic ﬁ ndings. 
+ yp (posttreatment) T will be determined 
+by pathologic size. 
+ The response category will be appended to 
+the y stage description. For example: 
+●  
+ypTisypN0cM0CR; 
+ypT1ypN0cM0PR; 
+yp T 2ypN1cM0NR 
+ HISTOLOGIC GRADE (G) 
+ All invasive breast carcinomas should be graded. The Notting-
+ham combined histologic grade (Elston-Ellis modiﬁ cation 
+of Scarff–Bloom–Richardson grading system) is recom-
+mended. 2 , 23 The grade for a tumor is determined by assessing 
+morphologic features (tubule formation, nuclear pleomorphism, 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+362 
+American Joint Committee on Cancer • 2010
+and mitotic count), assigning a value of 1 (favorable) to 3 
+(unfavorable) for each feature, and adding together the scores 
+for all three categories. A combined score of 3–5 points is des-
+ignated as grade 1; a combined score of 6–7 points is grade 2; 
+a combined score of 8–9 points is grade 3.  
+ HISTOLOGIC GRADE (NOTTINGHAM 
+COMBINED HISTOLOGIC GRADE 
+IS RECOMMENDED) 
+ GX 
+ Grade cannot be assessed 
+ G1 
+ Low combined histologic grade (favorable) 
+ G2 
+ Intermediate combined histologic grade (moder-
+ately favorable) 
+ G3 
+ High combined histologic grade (unfavorable) 
+ HISTOPATHOLOGIC TYPE 
+ The histopathologic types are the following: 
+ In situ Carcinomas 
+ NOS (not otherwise speciﬁ ed) 
+ Intraductal 
+  Paget’s disease and intraductal 
+ Invasive Carcinomas 
+ NOS 
+ Ductal 
+ Inﬂ ammatory 
+ Medullary, NOS 
+ Medullary with lymphoid stroma 
+ Mucinous 
+ Papillary (predominantly micropapillary pattern) 
+ Tubular 
+ Lobular 
+ Paget’s disease and inﬁ ltrating 
+ Undifferentiated 
+ Squamous cell 
+ Adenoid cystic 
+ Secretory 
+ Cribriform 
+ SPECIFIC CONSIDERATIONS FOR 
+EVIDENCE-BASED CHANGES TO THE  AJCC 
+CANCER STAGING MANUAL , SEVENTH EDITION 
+ Revisit of Considerations Between Fifth and Sixth 
+Editions 
+ Q: Should histologic grade (Nottingham combined histologic 
+grade recommended) be incorporated into the TNM classiﬁ ca-
+tion system? 
+ A: No; see “Considerations” below; T category . 
+ Q: Should the classiﬁ cation of pathologic lymph node status 
+in node-negative patients be ampliﬁ ed to include information 
+about isolated tumor cells detected by immunohistochemical 
+techniques? 
+ A: Yes, in part and now further clariﬁ ed; see “Considerations” 
+below; N category 
+ Q: Should micrometastases (pN1mi) detected by immunohis-
+tochemical staining and not veriﬁ ed by H&E staining be clas-
+siﬁ ed as pN1? 
+ A: Yes; see “Considerations” below; N category. The deﬁ ni-
+tion is now based on size, NOT how they were detected. 
+ Q: Should size criteria be used to distinguish between isolated 
+tumor cells and micrometastases? 
+ A: Yes; see “Considerations” below; N category. The deﬁ ni-
+tion is now based on size, NOT how they were detected. 
+ Q: How should RT-PCR be used in the detection of small tumor 
+deposits? 
+ A: If collected, it should be collected by the registrar, but not 
+used for staging; see “Considerations” below; N category 
+ Q: Should the classiﬁ cation of pathologic lymph node status 
+in node-positive (all nodes with deposits greater than 0.2 mm) 
+patients be changed to reﬂ ect more clearly the prognostic signiﬁ -
+cance of number of affected nodes? 
+ A: It was changed in sixth edition; no change in seventh 
+edition. 
+ Q: Should a ﬁ nding of positive internal mammary lymph nodes 
+retain a current classiﬁ cation of N3? 
+ A: It was reclassiﬁ ed pN2b in the sixth edition. In the seventh 
+edition, if positive internal mammary lymph nodes are iden-
+tiﬁ ed in the absence of axillary lymph node positivity, then it 
+is classiﬁ ed N2b. If positive lymph nodes are identiﬁ ed in the 
+presence of axillary lymph node positivity, then it is classiﬁ ed 
+N3b. 
+ Q: Should a ﬁ nding of positive supraclavicular lymph nodes be 
+classiﬁ ed as N3 rather than M1? 
+ A: It was reclassiﬁ ed pN3 from M1 in the sixth edition. No 
+change in the seventh edition. 
+ Q: Are there other prognostic factors that are powerful enough 
+to consider for inclusion in the TNM grading system? 
+ A: No. See “Considerations” below; B category regarding 
+multiparameter assays. 
+ New Considerations Between Sixth and Seventh 
+Editions.   The Breast Cancer Task Force deliberated many 
+important issues regarding the TNM staging system for the 
+seventh edition. These can be divided into subtle, but impor-
+tant changes in rules regulating how to collect or interpret 
+already existing factors, such as T, N, and M, and whether new 
+markers and/or technologies should be incorporated into any 
+of these categories. The following discussions highlight these 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+363
+32
+considerations and justify the changes that have been recom-
+mended. 
+ Of note, the Breast Cancer Task Force did not feel that any 
+new factors have reached a level of evidence to justify inclu-
+sion into the staging system. Indeed, a literature search using 
+the terms “breast cancer” and “prognostic factors” yielded over 
+1,800 publications in the English literature during the 5-year 
+period 2003–2007. These factors included ethnic origin, pre- 
+and post-diagnostic life styles and body habitus, means of 
+diagnosis and apparent radiographic character of the tumor, 
+germ line polymorphisms in candidate genes related to tumor 
+behavior and/or distribution and activity of therapeutic agents, 
+somatic biologic changes in the primary cancer, and evidence 
+of distant, microscopic metastases using sensitive radiographic, 
+molecular, and cellular detection systems. In most, if not all 
+of these studies, the authors conclude that the investigational 
+factor was statistically signiﬁ cantly associated with outcome. 
+However, the studies were often conducted using datasets and 
+tissue specimens that were conveniently available rather than 
+as prospective, well-designed investigations. Importantly, the 
+effects of systemic therapy, either in the adjuvant or metastatic 
+settings, were often ignored or not even considered. Therefore, 
+one is unable to determine if differential outcomes between 
+those patients who were positive vs. those who were negative 
+occurred because of, or in spite of, the marker. Such consid-
+erations must be taken into account in the design, conduct, 
+analysis, and reporting of tumor marker studies. 24 – 30  
+ Primary Tumor (T) 
+ Should histologic grade (Nottingham combined histologic 
+grade recommended) be incorporated into the TNM classi-
+ﬁ cation system? 
+ As noted, the issue of inclusion of histologic grade was very 
+seriously considered by the Breast Cancer Task Force in prep-
+aration of the sixth edition. Ultimately, after careful delibera-
+tion of all of the identiﬁ ed published literature on the subject, 
+the Task Force elected not to include grade as a stage modify-
+ing factor in the TNM system. 23 The Task Force acknowledged 
+the consistent differences in outcomes between women whose 
+tumors were grade 1 vs. those that were grade 3, using the 
+modiﬁ ed Scarff–Bloom–Richardson scoring system. How-
+ever, the majority of breast cancers are classiﬁ ed as grade 2, 
+and the prognostic signiﬁ cance of this category inconsistently 
+tracked with either of the other two grades, depending on the 
+study. Moreover, persistent concerns about grading inconsis-
+tency between observers contributed to the decision not to 
+include grade. 
+ Several new studies have been published since the sixth 
+edition, but none has clariﬁ ed the issue any further than what 
+were available to the Task Force at that time. Additionally, sev-
+eral authors have addressed speciﬁ c molecular components of 
+grade, such as proliferative markers and multigene expression 
+arrays that appear to reﬂ ect grade. 31 – 33 However, these assays 
+are either not widely available, or, like standard histopatho-
+logic analyses, reproducibility has been an issue. However, the 
+Task Force does recommend collection of tumor grade, using 
+the standardized Nottingham combined histologic score with 
+calibrated mitotic counts, for inclusion in registry databases.
+ Should T4 be distilled to inﬂ ammatory carcinoma only?  
+ Recent studies have suggested that the T4 designation should 
+be restricted to inﬂ ammatory carcinoma (T4d) only, with the 
+consideration that T4 a, b, and c categories have outcomes 
+similar to those in the T3 category, and substantially better 
+than those with true inﬂ ammatory breast cancer, if carefully 
+deﬁ ned. 34 – 36 In this case, the other subcategories (T4a, T4b, 
+T4c) would then be categorized based on the size of the tumor 
+in each case, regardless of skin or chest wall involvement. 
+ The Breast Cancer Task Force concluded that the data from 
+the main study suggesting this change were interesting, but size 
+of the study was modest and the analyses were not comprehen-
+sive. Therefore, the Task Force requested an analysis of 5-year 
+survival rates in T4 lesions in the National Cancer Database 
+from 1998 to 2000. In this analysis of 9,865 cases, signiﬁ cantly 
+different outcomes were observed for each of the T4 categories 
+(T4a = 47%, T4b = 40%, T4c = 28%, T4d = 34%;  p < 0.0001 all 
+pair-wise comparisons). However, without a comprehensive 
+comparison to tumors of similar size/stage but <T4, the Task 
+Force could not conclude that restricting T4 to T4d was appro-
+priate. The group concluded that the data were insufﬁ cient at 
+this time to recommend a change, but that they do warrant fur-
+ther study and future consideration.
+ Should the term “inﬂ ammatory carcinoma” be restricted to 
+cases with typical clinical skin changes AND the presence of 
+histologically conﬁ rmed invasive carcinoma involving der-
+mal lymphatics? 
+ The Task Force carefully considered this issue and elected not 
+to recommend changes in the seventh edition. The deﬁ nition 
+of inﬂ ammatory breast cancer will remain clinical and does 
+not require the ﬁ nding of dermal lymphatic involvement, 
+although it does, of course, require histologic conﬁ rmation of 
+cancer either in breast parenchyma or skin. Dermal lymphatic 
+involvement supports the diagnosis of inﬂ ammatory breast 
+cancer but is not necessary, nor is it sufﬁ cient, in the absence 
+of classical clinical ﬁ ndings, for the diagnosis of inﬂ amma-
+tory breast cancer. The Task Force acknowledges that this rec-
+ommendation is not based so much on new data but rather 
+a perceived need to clarify the deﬁ nition in the sixth edition, 
+which was considered ambiguous.
+ Should the size of multiple separate ipsilateral tumors be 
+taken into account when determining T category and Stage?  
+ In prior editions of the  Staging Manual , T stage assignment 
+for patients with multiple, concurrent ipsilateral breast can-
+cers has been based only on the largest tumor, and the sum 
+of the sizes has not been used. Although some studies suggest 
+that multiple tumors may have a somewhat worse progno-
+sis than single tumors in the same T category, the data are 
+insufﬁ cient to change the current rules for staging. 37 How-
+ever, the presence and sizes of the smaller tumor(s) should be 
+recorded. The Breast Cancer Task Force does express concern 
+about this issue and suggests it warrants further study. 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+364 
+American Joint Committee on Cancer • 2010
+ Regional Lymph Nodes (N) 
+ Should the size thresholds for isolated tumor cell clusters 
+and micrometastases be changed from the current limits of 
+0.2 and 2.0 mm? 
+ The prognostic signiﬁ cance of axillary metastases above a 2.0-
+mm threshold was conﬁ rmed by two studies reported over 3 
+decades ago. 38 , 39  Following the ﬁ rst study, a subcategory for 
+micrometastases was added to the  Cancer Staging Manual . 
+The introduction of sentinel lymph node biopsy and wide-
+spread use of immunohistochemistry facilitated detection of 
+minimal disease in axillary lymph nodes and the sixth edition 
+of the  Staging Manual established a lower limit for microme-
+tastases of >0.2 mm creating a new category of minimal nodal 
+disease. This limit was ten times smaller than the upper limit 
+for micrometastases and had been tested in one retrospective 
+study of occult metastases. 40 It was not a limit based on ﬁ rm 
+medical evidence and should be periodically reevaluated. 
+ Testing these thresholds is not an easy task. Doing so 
+requires excluding the presence of metastases above the sug-
+gested threshold prior to comparing differences in outcome for 
+subgroups with smaller metastases, and then either accepting 
+the confounding effects of systemic therapy or identifying data-
+sets of untreated patients. To date, no study has evaluated dif-
+ferences in disease free or overall survival for metastases above 
+and below a 1.0-mm threshold after excluding all metastases 
+above 2.0 mm. When these data become available, the upper 
+limit of 2.0 mm for micrometastases could be reconsidered. 
+ Evaluating the upper limit for isolated tumor cell clusters 
+is more problematic because it requires excluding all patients 
+with metastases larger than 0.2 mm prior to comparing sub-
+groups with metastases below this threshold. Creating a “true 
+node negative” comparison group is probably not practical 
+with standard histologic techniques. In other words, any “node 
+negative” group will contain some patients with occult meta-
+static disease. Two limiting principles emerge when evaluating 
+these thresholds; the ﬁ rst is lymph node sectioning strategies 
+and the second is section screening. The possibility of miss-
+ing a metastasis is proportional to the thickness of unexamined 
+tissue, the number of sections examined, and the capability of 
+the slide screening system to detect disease. 41 – 44 For example, 
+if evaluation of serial sections from a lymph node is negative, 
+but if a pathologist leaves 1.0 mm of unexamined tissue in the 
+parafﬁ n lymph node block, one can only conclude that there 
+is no metastasis larger than 1.0 mm; there is no guarantee the 
+node does not contain occult disease. Single cells are routinely 
+detected on histologic sections, but metastases as large as 
+0.1 mm may be missed by a pathologist screening slides. 43 , 44  
+ It has been theorized that isolated tumor cell clusters 
+should be distinguishable from micrometastases on the basis 
+of metastatic characteristics, such as proliferation or stromal 
+reaction, and indeed this observation was included in the sixth 
+edition. 23 , 45 However, in consideration of the seventh edition, 
+the Breast Cancer Task Force perceived that this distinction 
+can be highly subjective and expressed concern that replica-
+tion among pathologists and among institutions may be dif-
+ﬁ cult. For the seventh edition, the Breast Cancer Task Force 
+continues to deﬁ ne isolated tumor cell clusters as not greater 
+than 0.2 mm in diameter and micrometastases as greater than 
+0.2 mm and not greater than 2.0 mm in diameter. However, 
+the Task Force has recommended additional stringency to the 
+isolated tumor cell cluster (ITC) category. A 0.2-mm metas-
+tasis contains approximately 1,000 tumor cells and a 2.0-mm 
+metastasis contains approximately one million tumor cells. 
+The use of 0.2 mm as a lower limit was selected because it 
+signiﬁ cantly reduces the likelihood that ITCs will be recorded 
+as micrometastases without making it necessary to estimate 
+actual cell number counts in ITCs. However, pathologists have 
+had difﬁ culty applying the size criterion when a large number 
+of nonconﬂ uent tumor cells are present in a lymph node such 
+as may occur in some invasive lobular carcinomas. 46 For this 
+reason, additional guidance has been incorporated in this edi-
+tion. When more than 200 nonconﬂ uent or nearly conﬂ uent 
+tumor cells are present in a single histologic cross section of a 
+lymph node, there is a high probability that more than 1,000 
+cells are present in the node, that the cumulative volume of 
+these cells exceeds the volume of an ITC, and the node should 
+be classiﬁ ed as containing a micrometastasis. The classiﬁ ca-
+tion of patients with metastatic tumor deposits no greater 
+than 0.2 mm as pN0 is consistent with the low recurrence 
+rates typically seen in this patient group. The use of 2.0 mm as 
+an upper size limit for micrometastases, originally proposed 
+by Huvos and colleagues in 1971, is consistent with standards 
+already used in the AJCC staging system. 38 These thresholds 
+are meant to be guidelines, and not absolute cutoffs, to help 
+pathologists determine if the tumor burden in a given lymph 
+node is likely to be clinically important or not. The pathologist 
+should use judgment, and not an absolute cutoff of 0.2 mm 
+or exactly 200 cells, in determining the likelihood of whether 
+the cluster of cells is an ITC or a true micrometastasis. 
+ There is signiﬁ cant theoretic overlap in nodal tumor bur-
+den at the upper limit of the ITC category and the lower limit 
+of the micrometastasis category that is due to practical and 
+economic constraints in the pathologic evaluation of lymph 
+nodes. After considering these limitations in lymph node 
+examination and the absence of outcome data on clinical 
+signiﬁ cance of isolated tumor cell clusters and micrometasta-
+ses  after systematic exclusion of macrometastases, the Breast 
+Cancer Task Force perceived no compelling reason to change 
+the current thresholds.
+ Should nodal micrometastases be considered different from 
+nodal macrometastases for purposes of overall stage grouping? 
+ The  AJCC Cancer Staging Manual has traditionally grouped 
+breast cancer cases with exclusively nodal micrometastases 
+(pN1mi) as having the same prognostic signiﬁ cance as mac-
+rometastases with respect to assigning an overall stage group-
+ing based on T, N, and M categorical classiﬁ cations. A recent 
+analysis of data in the United States Surveillance, Epidemi-
+ology, and End Results (SEER) national cancer database has 
+demonstrated that when nodal tumor deposits no larger than 
+2.0 mm are the only ﬁ nding in lymph nodes and the primary 
+tumor is less than or equal to 2 cm (pT1) the incremental 
+decrease in survival at 5 and 10 years was only 1% compared 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+365
+32
+to patients with no nodal metastases detected. 47  Patients with 
+tumors no larger than 2.0 cm (T1) represented 70% of the 
+total population in the analysis, and in this subset calculated 
+10-year survival decreased from 78% to 77% to 73% for pN0, 
+pN1mi, and pN1a, respectively. This does not justify classify-
+ing pN1mi cases with Stage II tumors. This analysis included 
+data from 1992 to 2003 spanning the introduction and wide-
+spread adoption of sentinel lymph node biopsy. In this edi-
+tion of the manual, T1 tumors with nodal micrometastases 
+(pN1mi) will be classiﬁ ed as Stage IB to indicate the better 
+prognosis for the subset of breast cancer patients and to facili-
+tate further investigation.
+ How should RT-PCR be classiﬁ ed in the detection of nodal 
+tumor deposits?    
+ An even ﬁ ner level of resolution in the detection of isolated 
+tumor cells and micrometastases is available with the use of 
+reverse transcriptase-polymerase chain reaction (RT-PCR). 
+This technique was able to identify epithelial markers in a sig-
+niﬁ cant percentage of sentinel nodes that were negative for 
+disease by both histologic and immunohistochemical stain-
+ing. 48 This is not surprising given that RT-PCR is theoretically 
+capable of identifying single cells. However, it seems unlikely 
+that minimal tumor burden would be as signiﬁ cant as clinically 
+detected disease or macrometastases. Furthermore, because 
+lymph node tissue is digested and consumed in preparation 
+for RT-PCR, it is technically challenging to determine the exact 
+size of the original metastatic focus. RT-PCR assays have been 
+offered as an adjunct to standard histological analysis of sen-
+tinel lymph node biopsy to assist in intraoperative decision 
+making regarding the performance of completion axillary 
+node dissection. 49 The prognostic or staging signiﬁ cance of 
+such RT-PCR assay results remains unclear. There is evidence 
+that such highly-sensitive tests produce false positive results 
+despite efforts to calibrate RT-PCR results with traditional his-
+tologic measurements. 41 Correlation between RT-PCR testing 
+and histology has been performed but there is continued and 
+justiﬁ ed concern that RT-PCR assays do not provide the same 
+data as routine histologic measurement and categorization of 
+nodal metastases. A lymph node that is exclusively positive by 
+molecular assay alone (mol+) may contain isolated tumor cell 
+clusters, micrometastases, macrometastases, or be a false posi-
+tive result due to sampling, contamination, or features intrin-
+sic to the assay. Presently, there are insufﬁ cient data to suggest 
+that RT-PCR assay of lymph nodes should replace or substitute 
+for traditional histologic evaluation of lymph nodes. Staging 
+is further complicated when some nodes or portions of some 
+nodes are evaluated by RT-PCR and other nodes are evaluated 
+by histology. 
+ Pending further developments in this area, this edition of 
+the  AJCC Cancer Staging Manual will continue to classify any 
+lesion identiﬁ ed by RT-PCR alone as pN0 for the purposes 
+of staging. In addition, any case that is histologically negative 
+for regional lymph node metastases and in which examina-
+tion for epithelial markers was made with RT-PCR and the 
+examination was considered positive will have the appended 
+designation (mol+). It is recommended that the ﬁ rst priority 
+in evaluating lymph nodes is histologic identiﬁ cation of mac-
+rometastases (metastases larger than 2.0 mm). Thus, it is not 
+recommended to divert portions of nodal tissue for molec-
+ular analysis that might contain a macrometastasis. When 
+lymph nodes contain tumor deposits detected by histologic 
+evaluation and molecular techniques, N classiﬁ cation based 
+on histologic ﬁ ndings and measurements is utilized. 
+ Distant Metastases (M) 
+    How should circulating tumor cells or microscopic tumor 
+cells be handled in the absence of overt clinical ﬁ nding? 
+ Circulating tumor cells (CTCs) and microscopic tumor cells 
+detected in the bone marrow are collectively designated as 
+DTCs. Several studies have shown a relationship between bone 
+marrow DTCs and recurrence risk and mortality in M0 stage 
+breast cancer. 50 , 51 However, the Breast Cancer Task Force con-
+cluded that although the presence of positive bone marrow 
+micrometastases has been statistically signiﬁ cantly associated 
+with worse outcomes, the difference in recurrence and mortal-
+ity rates between patients who have them and those who do not 
+was not sufﬁ ciently large to recommend a change in the M stag-
+ing system. In particular, patients who already have a favorable 
+prognosis (T1, N0) do not appear to have a substantially worse 
+outcome if they have positive bone marrow micrometastases. 50  
+ Although several recent studies have suggested that CTC 
+are commonly detected in patients with early stage breast 
+cancer and may be prognostic, the Task Force concluded that 
+most of these studies were small with short follow-up and 
+were confounded by the effects of systemic therapy. 2 , 28 , 52 – 60 
+ In summary, the designation of M1 has generally been 
+used to determine a relative, or even, absolute state of incur-
+ability. Thus, many clinicians revert to a philosophy of pal-
+liative, rather than curative intent, for patients who are 
+designated M1. There are no data to suggest that detection of 
+DTCs in any tissue (bone marrow, ovary, blood) in the absence 
+of clinical and/or radiographic ﬁ ndings confers incurability. 
+Therefore, the Task Force recommends that in the absence of 
+overt metastases detected by clinical examination or imaging 
+abnormalities, DTCs should not affect M staging. 
+ The Task Force has recommended that, for data collec-
+tion purposes, the DTC designation should be expanded 
+to include any cluster of malignant cells not greater than 
+0.2 mm found in any tissue outside of the breast and sur-
+rounding regional lymph nodes in the absence of clinical 
+or radiographic signs of metastases. DTC assessment is not 
+required or recommended as part of staging at the cur-
+rent time outside of the investigational setting in patients 
+with clinical M0 disease. However, if DTCs are detected, the 
+staging category should be denoted as M0(i+) and the data 
+should be collected by the registrars.
+ Should DTC (bone marrow micrometastases or CTC) be 
+incorporated to subdivide the M1 category? 
+ The Task Force considered whether the TNM system might be 
+used to further subdivide patients with M1 disease. In patients 
+with overt metastases (M1), the presence and number of CTCs 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+366 
+American Joint Committee on Cancer • 2010
+at the time of diagnosis have been shown to be prognostic for 
+both disease progression and mortality. 51 , 58 , 61 – 67 Changes in 
+CTCs after treatment are also predictive of response to ther-
+apy and prognostic for recurrence and mortality, although 
+the American Society of Clinical Oncology Tumor Marker 
+Guidelines Panel has not recommended routine use of CTC in 
+management of patients with metastatic breast cancer, since 
+the utility of this assay in patient management decisions has 
+not been demonstrated. 2  After careful deliberation, the Task 
+Force decided that the TNM system has not, in the past, dealt 
+with prognosis in those patients with established, clinically 
+or radiographically detectable metastases, and the Task Force 
+elected not to recommend that CTC presence or number be 
+used to further subclassify M1 staging. 
+ y Pathologic (Postneoadjuvant) Systemic Therapy 
+ Why add a postneoadjuvant systemic therapy staging system?  
+ Neoadjuvant therapy, also designated preoperative, presurgi-
+cal, or primary adjuvant systemic therapy, has been increas-
+ingly studied and applied for patients with operable, as well 
+as traditionally inoperable breast cancer. 68 While most com-
+monly considered for chemotherapy, neo- or preoperative 
+adjuvant endocrine therapy has also been studied extensively. 68 
+The increasing importance of this strategy mandates that the 
+staging system provide the information necessary to assess 
+prognosis in this diverse group of patients. Clearly, outcomes 
+after neoadjuvant systemic therapy differ among patients, so 
+that a staging system should reﬂ ect potential prognosis. Thus, 
+the Breast Cancer Task Force has included a staging system to 
+be applied for patients treated in this manner, which will be 
+designated with the preﬁ x y, y pathologic or yp, in accordance 
+with AJCC policy in other disease sites.
+ What is the proper deﬁ nition of complete response after neo-
+adjuvant systemic therapy? 
+ The prognostic importance of a histologic complete response 
+(CR) to neoadjuvant chemotherapy was ﬁ rst documented in 
+patients with locally advanced breast cancer. 69 This obser-
+vation was subsequently conﬁ rmed in randomized trials 
+involving patients with operable disease. 70 In several studies, 
+a variety of different deﬁ nitions of CR have been employed, 
+making a comparison of the outcomes of different treatment 
+regimens difﬁ cult. For this reason, the Task Force proposed a 
+standard set of response deﬁ nitions to be included with the 
+posttreatment stage. 
+ Although an international expert panel proposed that 
+a CR be deﬁ ned as the absence of invasive and  noninvasive 
+tumor in the breast, 71 the Task Force recommends that the 
+AJCC deﬁ nition of CR should be the absence of invasive car-
+cinoma in the breast and the axillary nodes, since the presence 
+of noninvasive cancer, while important in the selection of 
+local therapy, is not a determinant of survival. A retrospective 
+review from the MD Anderson Cancer Center compared the 
+outcome of 78 patients with a pathologic CR and no residual 
+tumor of any kind to that of 199 patients with residual DCIS 
+only and 2,025 patients with residual invasive cancer. The 5 
+and 10 year disease-free and overall survival rates for patients 
+with a pathologic CR with and without DCIS did not differ 
+signiﬁ cantly, but were signiﬁ cantly better than the survival 
+rates of patients with invasive cancer. 72  Similar ﬁ ndings were 
+reported by Jones et al. in a study of 435 patients. 73 
+ What is the optimal method of determining T after neoadju-
+vant systemic therapy? 
+ An unresolved problem in deﬁ ning the yp posttreatment stage 
+is how to determine the best method for measuring tumor size 
+after neoadjuvant/preoperative chemotherapy. In the absence 
+of a CR, the assessment of the extent of response in the tumor 
+and the measurement of tumor size remain problematic. Par-
+tial response in the NSABP protocol B18 74 and in the grading 
+system proposed by Chevillard et al. 75 is identiﬁ ed by nests of 
+tumor in a desmoplastic or ﬁ brotic stroma. In contrast, the 
+Miller–Payne grading system 76 and a system used at the M.D. 
+Anderson Cancer Center 77  rely upon loss of cellularity to 
+describe the degree of response. No single method of assessing 
+response has been shown to be a superior predictor of outcome, 
+and concerns about reproducibility exist for all these measures. 
+The combination of tumor size and an assessment of changes 
+in cellularity are useful in documenting pathologic evidence of 
+response. However, pretreatment biopsies are not always avail-
+able to the pathologist assessing the posttreatment specimen. 
+For this reason, the Breast Cancer Task Force has deﬁ ned the 
+pathologic T size by the largest contiguous tumor focus, with 
+a sufﬁ x to alert the clinician when multiple scattered tumor 
+foci are observed. When nests of tumor cells in ﬁ brotic stroma 
+are observed posttreatment, the T should be determined based 
+on the largest contiguous area of invasive carcinoma, exclud-
+ing surrounding areas of ﬁ brosis. This method of T determi-
+nation has been shown to correlate with survival in the study 
+of Carey et al. 78 Additional information that is important for 
+planning local therapy such as the distance over which the 
+tumor extends (when scattered foci are present) or the number 
+of slides/blocks in which tumor is seen should be included in 
+the pathology report, but is not part of TNM.
+ How should isolated tumor cells be considered after neoad-
+juvant therapy? 
+ In patients who have not received neoadjuvant therapy, nodes 
+with ITCs are classiﬁ ed pN0, reﬂ ecting uncertainty about their 
+prognostic signiﬁ cance. After neoadjuvant therapy, ITCs could 
+represent the presence of minimal nodal disease pre-treatment 
+which did not respond to therapy or the remnants of macro-
+scopic nodal disease which has had a partial response. Until 
+further data are available to address the prognostic signiﬁ cance 
+of ITCs post-treatment, the presence of ITC precludes classify-
+ing the patient as having a complete response to therapy. How-
+ever, these patients will be classiﬁ ed as ypN0(i+) to maintain 
+standard deﬁ nitions throughout the TNM system.
+ Should the same considerations be used for preoperative 
+endocrine (anti-estrogen) or other targeted therapy?  
+ The overwhelming majority of the available information 
+regarding the prognostic signiﬁ cance of CR comes from 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+367
+32
+patients treated with chemotherapy. Limited information 
+is available about the prognostic signiﬁ cance of the degree 
+of response when targeted therapies directed against ER 
+or HER2 are used. Pathologic CR is rarely seen in patients 
+receiving 3–4 months of neoadjuvant endocrine therapy, 
+and its absence should not be considered evidence of endo-
+crine resistance or poor prognosis. 79 , 80 Complete response in 
+patients overexpressing HER2 and treated with trastuzumab 
+plus chemotherapy was associated with a signiﬁ cant sur-
+vival improvement compared with that in women who did 
+not have pathologic CR. 81 Additional information regarding 
+the relationship between response and survival is needed for 
+the newer targeted therapies, and therefore the Breast Cancer 
+Task Force recommends collection of postneoadjuvant ther-
+apy TNM data by the registrars.
+ What are the difﬁ culties in evaluating partial response?    
+ The Breast Cancer Task Force recognizes that the deﬁ nition 
+of partial response (PR), requiring a decrease in the T or N 
+category, may fail to capture some patients with a reduc-
+tion in tumor volume. However, modalities such as physical 
+examination, mammography, ultrasound, and MRI, which 
+may be used to determine the clinical (pretreatment) tumor 
+size, have been demonstrated to signiﬁ cantly overestimate 
+and underestimate the extent of tumor when compared with 
+pathologic examination, 82 making deﬁ nitions of response 
+based on small changes in the clinically determined pretreat-
+ment tumor size compared to the y pathologic posttreatment 
+tumor size potentially inaccurate. In this regard, the most 
+accurate predictor of outcome after neoadjuvant chemother-
+apy is pathologic complete response. 68 , 79 However, a rough 
+estimate of response should be determined comparing post-
+treatment clinical, radiographic, and pathologic assessments 
+with those made prior to initiation of systemic therapy, and 
+this should be recorded.
+ Should TNM stage prior to neoadjuvant systemic (clinical 
+stage) be considered in y pathologic posttreatment staging? 
+ An increasing body of data suggests that prognosis after neo-
+adjuvant therapy is determined by the posttreatment patho-
+logic stage, degree of response, and the pretreatment stage. 
+Carey et al. demonstrated that the AJCC TNM posttreatment 
+(yp) stage was a signiﬁ cant predictor of both 5-year disease-
+free and overall survival. 78 However, even in patients with a 
+pathologic CR, the clinical TNM at presentation provides 
+valuable prognostic information. In a group of 226 patients 
+treated at the MD Anderson Cancer Center and having a 
+pathologic CR to neoadjuvant therapy, statistically signiﬁ cant 
+differences in the 10-year metastases-free survival were noted 
+on the basis of stage at presentation. 83 Similar ﬁ ndings were 
+noted for locoregional recurrence (LRR), with patients with 
+clinical Stage I or II disease and a pathologic CR to neoadju-
+vant therapy having a 0% 10-year incidence of LRR without 
+radiation therapy compared with 33% for those with clinical 
+Stage III disease and a pathologic CR treated without radio-
+therapy. 10 The relative importance of pretreatment stage, 
+posttreatment stage, and degree of response in predicting 
+survival remains to be deﬁ ned, and therefore the Task Force 
+does not recommend inclusion of pretreatment TNM data 
+in calculating a posttreatment stage (“yp”), unless the patient 
+was M1 prior to initiation of therapy. In this case, her M sta-
+tus is considered M1 regardless of response to therapy. How-
+ever, the Task Force does recommend inclusion of response 
+in the data routinely collected in patients receiving neoadju-
+vant therapy and the deﬁ nition of the method of determining 
+pretreatment nodal status will allow these relationships to be 
+more carefully assessed. 
+ REFERENCES 
+   1.   AJCC. AJCC Cancer Staging Atlas. New York: Springer; 2006.  
+  2.  Harris L, Fritsche H, Mennel R, et al. American Society of 
+Clinical Oncology 2007 update of recommendations for 
+the use of tumor markers in breast cancer. J Clin Oncol. 
+2007;25:5287–312. 
+   3.    Carlson RW, Allred DC, Anderson BO, et al. Breast cancer. 
+J Natl Compr Canc Netw. 2009;7:122–92.  
+   4.    Van’t Veer LJ, Paik S, Hayes DF. Gene expression proﬁ l-
+ing of breast cancer: a new tumor marker. J Clin Oncol. 
+2005;23:1631–5. 
+   5.   Buyse M, Loi S, van’t Veer L, et al. Validation and clinical util-
+ity of a 70-gene prognostic signature for women with node-
+negative breast cancer. J Natl Cancer Inst. 2006;98:1183–92. 
+  6.  van de Vijver MJ, He YD, van’t Veer LJ, et al. A gene-expres-
+sion signature as a predictor of survival in breast cancer. 
+N Engl J Med. 2002;347:1999–2009. 
+  7.  Wang Y, Klijn JG, Zhang Y, et al. Gene-expression proﬁ les to 
+predict distant metastasis of lymph-node-negative primary 
+breast cancer. Lancet. 2005;365:671–9. 
+  8.  Paik S, Shak S, Tang G, et al. A multigene assay to predict 
+recurrence of tamoxifen-treated, node-negative breast can-
+cer. N Engl J Med. 2004;351:2817–26. 
+  9.  Dowsett M, Cuzick J, Wale C, et al. Risk of distant recurence 
+using Oncotype DX in postmenopausal primary breast 
+cancer patients treated with anastrozole or tamoxifen: a 
+TransATAC study. Proceedings of the San Antonio Breast 
+Cancer Symposium, 2008.  
+ 10.  Paik S, Tang G, Shak S, et al. Gene expression and benefit 
+of chemotherapy in women with node-negative, estrogen 
+receptor-positive breast cancer. J Clin Oncol. 2006;24:
+3726–34.  
+ 11.  Albain K, Barlow W, Shak S, et al. Prognostic and predictive 
+value of the 21-gene recurrence score assay in postmeno-
+pausal, node-positive, ER-poisitive breast cancer (S8814, 
+INT0100). Breast Cancer Res Treat. 2007;106 (suppl 1):late 
+breaking abstract, no. 10. 
+ 12.  NCCN. NCCN Clinical practice guidelines in oncology. In: 
+Winn R, editor. Jenkintown, PA: National Comprehensive 
+Cancer Network; 2008. 
+ 13.  Goldhirsch A, Wood WC, Gelber RD, et al. Progress and 
+promise: highlights of the international expert consensus on 
+the primary therapy of early breast cancer 2007. Ann Oncol. 
+2007;18:1133–44. 
+   14.    Anderson BO, Yip CH, Smith RA, Shyyan R, Sener SF, Eniu 
+A, et al. Guideline implementation for breast healthcare in 
+low-income and middle-income countries : overview of the 
+Breast Health Global Initiative Global Summit 2007. Cancer. 
+2008;113(8 Suppl):2221–43. 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+368 
+American Joint Committee on Cancer • 2010
+ 15.  Schwartz GF, Hortobagyi GN. Proceedings of the consensus 
+conference on neoadjuvant chemotherapy in carcinoma of 
+the breast, April 26–28, 2003, Philadelphia, Pennsylvania. 
+Cancer. 2004;100:2512–32. 
+ 16.  Tavassoli FA. Ductal carcinoma in situ: introduction of the 
+concept of ductal intraepithelial neoplasia. Mod Pathol. 
+1998;11:140–54. 
+ 17.  Tavassoli FA. Breast pathology: rationale for adopting the 
+ductal intraepithelial neoplasia (DIN) classiﬁ cation. Nat 
+Clin Pract Oncol. 2005;2:116–7. 
+ 18.  Bratthauer GL, Tavassoli FA. Lobular intraepithelial neo-
+plasia: previously unexplored aspects assessed in 775 cases 
+and their clinical implications. Virchows Arch. 2002;440:
+134–8.  
+ 19.  Lester SC, Bose S, Chen YY, et al. Protocol for the examina-
+tion of specimens from patients with ductal carcinoma in 
+situ of the breast. Arch Pathol Lab Med. 2009;133:15–25. 
+   20.   Chen CY, Sun LM, Anderson BO. Paget disease of the breast: 
+changing patterns of incidence, clinical presentation, and 
+treatment in the U.S. Cancer. 2006;107:1448–58. 
+ 21.  Walshe JM, Swain SM. Clinical aspects of inﬂ ammatory 
+breast cancer. Breast Dis. 2005–2006;22:35–44. 
+ 22.  Network NCC. NCCN Practice Guidelines in Oncology. Fort 
+Washington, PA: NCCN; 2008.  
+ 23.  Singletary SE, Allred C, Ashley P, et al. Revision of the Amer-
+ican Joint Committee on Cancer staging system for breast 
+cancer. J Clin Oncol. 2002;20:3628–36.  
+ 24.  Simon R, Altman DG. Statistical aspects of prognostic factor 
+studies in oncology. Br J Cancer. 1994;69:979–85. 
+ 25.  Hayes DF, Bast RC, Desch CE, et al. Tumor marker utility 
+grading system: a framework to evaluate clinical utility of 
+tumor markers. J Natl Cancer Inst. 1996;88:1456–66. 
+ 26.   Ransohoff DF. Rules of evidence for cancer molecular-
+marker discovery and validation. Nat Rev Cancer. 2004;4:
+309–14.  
+ 27.  Sauerbrei W. Prognostic factors. Confusion caused by bad 
+quality design, analysis and reporting of many studies. Adv 
+Otorhinolaryngol. 2005;62:184–200. 
+ 28.  Altman DG, Riley RD. Primer: an evidence-based approach to 
+prognostic markers. Nat Clin Pract Oncol. 2005;2:466–72.  
+ 29.  McShane LM, Altman DG, Sauerbrei W, et al. Reporting 
+recommendations for tumor marker prognostic studies 
+(REMARK). J Natl Cancer Inst. 2005;97:1180–4. 
+ 30.  Henry NL, Hayes DF. Uses and abuses of tumor markers in 
+the diagnosis, monitoring, and treatment of primary and 
+metastatic breast cancer. Oncologist. 2006;11:541–52. 
+   31.    Colozza M, Azambuja E, Cardoso F, et al. Proliferative mark-
+ers as prognostic and predictive tools in early breast cancer: 
+where are we now? Ann Oncol. 2005;16:1723–39. 
+   32.    Sotiriou C, Neo SY, McShane LM, et al. Breast cancer clas-
+siﬁ cation and prognosis based on gene expression proﬁ les 
+from a population-based study. Proc Natl Acad Sci USA. 
+2003;100:10393–8. 
+ 33.  Sotiriou C, Wirapati P, Loi S, et al. Gene expression proﬁ l-
+ing in breast cancer: understanding the molecular basis of 
+histologic grade to improve prognosis. J Natl Cancer Inst. 
+2006;98:262–72. 
+ 34.  Guth U, Jane Huang D, Holzgreve W, et al. T4 breast cancer 
+under closer inspection: a case for revision of the TNM clas-
+siﬁ cation. Breast. 2007;16:625–36. 
+ 35.  Guth U, Singer G, Schotzau A, et al. Scope and signiﬁ cance 
+of non-uniform classiﬁ cation practices in breast can-
+cer with non-inﬂ ammatory skin involvement: a clinico-
+pathologic study and an international survey. Ann Oncol. 
+2005;16:1618–23.  
+ 36.  Guth U, Wight E, Schotzau A, et al. A new approach in breast 
+cancer with non-inﬂ ammatory skin involvement. Acta 
+Oncol. 2006;45:576–83. 
+ 37.  Jain S, Rezo A, Shadbolt B, et al. Synchronous multiple 
+ipsilateral breast cancers: implications for patient manage-
+ment. Pathology 2009;41:57–67. 
+ 38.  Huvos AG, Hutter RV, Berg JW. Signiﬁ cance of axillary 
+macrometastases and micrometastases in mammary cancer. 
+Ann Surg. 1971;173:44–6.  
+ 39.  Fisher ER, Palekar A, Rockette H, et al. Pathologic ﬁ ndings 
+from the National Surgical Adjuvant Breast Project (Protocol 
+No. 4). V. Signiﬁ cance of axillary nodal micro- and macro-
+metastases. Cancer. 1978;42:2032–8. 
+ 40.  Nasser IA, Lee AK, Bosari S, et al. Occult axillary lymph 
+node metastases in "node-negative" breast carcinoma. Hum 
+Pathol. 1993;24:950–7. 
+ 41.  Viale G, Dell'Orto P, Biasi MO, et al. Comparative evalu-
+ation of an extensive histopathologic examination and a 
+real-time reverse-transcription-polymerase chain reaction 
+assay for mammaglobin and cytokeratin 19 on axillary sen-
+tinel lymph nodes of breast carcinoma patients. Ann Surg. 
+2008;247:136–42.  
+   42.    Weaver DL. Pathological evaluation of sentinel lymph nodes 
+in breast cancer: a practical academic perspective from 
+America. Histopathology. 2005;46:702–6. 
+ 43.  Weaver DL. Assessing the signiﬁ cance of occult microme-
+tastases in axillary lymph nodes from breast cancer patients. 
+Breast J. 2006;12:291–3. 
+ 44.  Weaver DL, Krag DN, Manna EA, et al. Detection of occult 
+sentinel lymph node micrometastases by immunohis-
+tochemistry in breast cancer. An NSABP protocol B-32 qual-
+ity assurance study. Cancer. 2006;107:661–7. 
+ 45.  Hermanek P, Sobin LH, Wittekind C. How to improve the 
+present TNM staging system. Cancer. 1999;86:2189–91. 
+ 46.  Turner RR, Weaver DL, Cserni G, et al. Nodal stage clas-
+siﬁ cation for breast carcinoma: improving interobserver 
+reproducibility through standardized histologic criteria and 
+image-based training. J Clin Oncol. 2008;26:258–63. 
+ 47.  Chen SL, Hoehne FM, Giuliano AE. The prognostic signiﬁ -
+cance of micrometastases in breast cancer: a SEER popula-
+tion-based analysis. Ann Surg Oncol. 2007;14:3378–84. 
+ 48.  Min CJ, Tafra L, Verbanac KM. Identiﬁ cation of superior 
+markers for polymerase chain reaction detection of breast 
+cancer metastases in sentinel lymph nodes. Cancer Res. 
+1998;58(20):4581–4. 
+ 49.  Blumencranz P, Whitworth PW, Deck K, et al. Scien-
+tiﬁ c impact recognition award. Sentinel node staging for 
+breast cancer: intraoperative molecular pathology over-
+comes conventional histologic sampling errors. Am J Surg. 
+2007;194:426–32.  
+   50.    Braun S, Vogl FD, Naume B, et al. A pooled analysis of bone 
+marrow micrometastasis in breast cancer. N Engl J Med. 
+2005;353:793–802. 
+   51.    Hayes DF, Smerage J. Is there a role for circulating tumor 
+cells in the management of breast cancer? Clin Cancer Res. 
+2008;14:3646–50. 
+ 52.  Rack K, Schindlbeck C, Hofmann S, et al. Circulating tumor 
+cells (CTCs) in peripheral blood of primary breast cancer 
+patients. Proc Am Soc Clin Oncol. 2007;25S:abs 10595. 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+369
+32
+ 53.  Nakagawa T, Martinez SR, Goto Y, et al. Detection of circu-
+lating tumor cells in early-stage breast cancer metastasis to 
+axillary lymph nodes. Clin Cancer Res. 2007;13:4105–10. 
+ 54.  Iakovlev VV, Goswami RS, Vecchiarelli J, et al. Quantitative 
+detection of circulating epithelial cells by Q-RT-PCR. Breast 
+Cancer Res Treat. 2008;107:145–54. 
+ 55.  Apostolaki S, Perraki M, Pallis A, et al. Circulating HER2 
+mRNA-positive cells in the peripheral blood of patients with 
+stage I and II breast cancer after the administration of adju-
+vant chemotherapy: evaluation of their clinical relevance. 
+Ann Oncol. 2007;18:851–8. 
+ 56.  Ntoulia M, Stathopoulou A, Ignatiadis M, et al. Detection of 
+Mammaglobin A-mRNA-positive circulating tumor cells in 
+peripheral blood of patients with operable breast cancer with 
+nested RT-PCR. Clin Biochem. 2006;39:879–87. 
+ 57.  Ignatiadis M, Kallergi G, Ntoulia M, et al. Prognostic value 
+of the molecular detection of circulating tumor cells using a 
+multimarker reverse transcription-PCR assay for cytokeratin 
+19, mammaglobin A, and HER2 in early breast cancer. Clin 
+Cancer Res. 2008;14:2593–600. 
+ 58.  Ignatiadis M, Georgoulias V, Mavroudis D. Circulating tumor 
+cells in breast cancer. Curr Opin Obstet Gynecol. 2008;20:55–60.  
+   59.    Kallergi G, Mavroudis D, Georgoulias V, et al. Phosphory-
+lation of FAK, PI-3K, and impaired actin organization in 
+CK-positive micrometastatic breast cancer cells. Mol Med. 
+2007;13:79–88. 
+ 60.  Ignatiadis M, Xenidis N, Perraki M, et al. Different prog-
+nostic value of cytokeratin-19 mRNA positive circulating 
+tumor cells according to estrogen receptor and HER2 status 
+in early-stage breast cancer. J Clin Oncol. 2007;25:5194–202. 
+   61.    Cristofanilli M, Budd GT, Ellis MJ, et al. Circulating tumor 
+cells, disease progression, and survival in metastatic breast 
+cancer. N Engl J Med. 2004;351:781–91.  
+ 62.  Kahn HJ, Presta A, Yang LY, et al. Enumeration of circulat-
+ing tumor cells in the blood of breast cancer patients after 
+ﬁ ltration enrichment: correlation with disease stage. Breast 
+Cancer Res Treat. 2004;86:237–47. 
+ 63.  Schwarzenbach H, Muller V, Stahmann N, et al. Detection 
+and characterization of circulating microsatellite-DNA 
+in blood of patients with breast cancer. Ann N Y Acad Sci. 
+2004;1022:25–32. 
+ 64.  Cristofanilli M, Hayes DF, Budd GT, et al. Circulating tumor 
+cells: a novel prognostic factor for newly diagnosed meta-
+static breast cancer. J Clin Oncol. 2005;23:1420–30. 
+   65.    Budd GT, Cristofanilli M, Ellis MJ, et al. Circulating tumor 
+cells versus imaging–predicting overall survival in metastatic 
+breast cancer. Clin Cancer Res. 2006;12:6403–9. 
+ 66.  Hayes DF, Cristofanilli M, Budd GT, et al. Circulating tumor 
+cells at each follow-up time point during therapy of meta-
+static breast cancer patients predict progression-free and 
+overall survival. Clin Cancer Res. 2006;12:4218–24. 
+ 67.  Alix-Panabieres C, Muller V, Pantel K. Current status in 
+human breast cancer micrometastasis. Curr Opin Oncol. 
+2007;19:558–63. 
+ 68.  Gralow JR, Zujewski JA, Winer E. Preoperative therapy 
+in invasive breast cancer: reviewing the state of the sci-
+ence and exploring new research directions. J Clin Oncol. 
+2008;26:696–7.  
+ 69.  Feldman LD, Hortobagyi GN, Buzdar AU, et al. Pathological 
+assessment of response to induction chemotherapy in breast 
+cancer. Cancer Res. 1986;46:2578–81.  
+ 70.  Fisher B, Bryant J, Wolmark N, et al. Effect of preoperative 
+chemotherapy on the outcome of women with operable 
+breast cancer. J Clin Oncol. 1998;16:2672–85. 
+ 71.  Kaufmann M, Hortobagyi GN, Goldhirsch A, et al. Recom-
+mendations from an international expert panel on the use 
+of neoadjuvant (primary) systemic treatment of operable 
+breast cancer: an update. J Clin Oncol. 2006;24:1940–9. 
+ 72.  Mazouni C, Peintinger F, Wan-Kau S, et al. Residual ductal car-
+cinoma in situ in patients with complete eradication of inva-
+sive breast cancer after neoadjuvant chemotherapy does not 
+adversely affect patient outcome. J Clin Oncol. 2007;25:2650–5.  
+ 73.  Jones RL, Lakhani SR, Ring AE, et al. Pathological complete 
+response and residual DCIS following neoadjuvant chemo-
+therapy for breast carcinoma. Br J Cancer. 2006;94:358–62.  
+   74.    Fisher ER, Wang J, Bryant J, et al. Pathobiology of preop-
+erative chemotherapy: ﬁ ndings from the National Surgical 
+Adjuvant Breast and Bowel (NSABP) protocol B-18. Cancer. 
+2002;95:681–95. 
+ 75.  Chevillard S, Vielh P, Pouillart P. Tumor response of breast 
+cancer patients treated by neaoadjuvant chemotherapy may 
+be predicted by measuring the early level of MDR1 gene 
+expression. Proc Am Soc Clin Oncol. 1993;12:59. 
+ 76.  Ogston KN, Miller ID, Payne S, et al. A new histological grad-
+ing system to assess response of breast cancers to primary 
+chemotherapy: prognostic signiﬁ cance and survival. Breast. 
+2003;12:320–7. 
+ 77.  Symmans WF, Peintinger F, Hatzis C, et al. Measurement of 
+residual breast cancer burden to predict survival after neoad-
+juvant chemotherapy. J Clin Oncol. 2007;25:4414–22. 
+   78.    Carey LA, Metzger R, Dees EC, et al. American Joint Com-
+mittee on cancer tumor-node-metastasis stage after neo-
+adjuvant chemotherapy and breast cancer outcome. J Natl 
+Cancer Inst. 2005;97:1137–42. 
+ 79.  Wolff AC, Berry D, Carey LA, et al. Research issues affect-
+ing preoperative systemic therapy for operable breast cancer. 
+J Clin Oncol. 2008;26:806–13. 
+ 80.  Eiermann W, Paepke S, Appfelstaedt J, et al. Preoperative 
+treatment of postmenopausal breast cancer patients with 
+letrozole: a randomized double-blind multicenter study. Ann 
+Oncol. 2001;12:1527–32. 
+ 81.  Buzdar AU, Valero V, Ibrahim NK, et al. Neoadjuvant therapy 
+with paclitaxel followed by 5-ﬂ uorouracil, epirubicin, and 
+cyclophosphamide chemotherapy and concurrent trastu-
+zumab in human epidermal growth factor receptor 2-positive 
+operable breast cancer: an update of the initial randomized 
+study population and data of additional patients treated with 
+the same regimen. Clin Cancer Res. 2007;13:228–33. 
+   82.    Berg WA, Gutierrez L, NessAiver MS, et al. Diagnostic accu-
+racy of mammography, clinical examination, US, and MR 
+imaging in preoperative assessment of breast cancer. Radiol-
+ogy. 2004;233:830–49. 
+ 83.  Gonzalez-Angulo AM, McGuire SE, Buchholz TA, et al. Fac-
+tors predictive of distant metastases in patients with breast 
+cancer who have a pathologic complete response after neo-
+adjuvant chemotherapy. J Clin Oncol. 2005;23:7098–104. 
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+371
+(continued on next page)
+CLINICAL 
+Extent of disease before 
+any treatment
+PATHOLOGIC
+Extent of disease through 
+completion of definitive surgery
+y clinical – staging completed 
+after neoadjuvant therapy but 
+before subsequent surgery
+y pathologic –staging completed 
+after neoadjuvant therapy AND 
+subsequent surgery
+TX
+T0
+Tis
+Tis (DCIS)
+Tis (LCIS)
+Tis (Paget’s)
+T1
+T1mi
+T1a
+T1b
+T1c
+T2
+T3
+T4
+T4a
+T4b 
+T4c
+T4d
+PRIMARY TUMOR (T)
+Primary tumor cannot be assessed
+No evidence of primary tumor
+Carcinoma in situ
+Ductal carcinoma in situ
+Lobular carcinoma in situ
+Paget’s disease of the nipple is NOT associated with invasive carcinoma and/or 
+carcinoma in situ (DCIS and/or LCIS) in the underlying breast parenchyma. 
+Carcinomas in the breast parenchyma associated with Paget's disease are 
+categorized based on the size and characteristics of the parenchymal 
+disease, although the presence of Paget's disease should still be noted 
+Tumor £20 mm in greatest dimension 
+Tumor £1 mm in greatest dimension
+Tumor >1 mm but £5 mm in greatest dimension
+Tumor >5 mm but £10 mm in greatest dimension
+Tumor >10 mm but £20 mm in greatest dimension
+Tumor >20 mm but £50 mm in greatest dimension
+Tumor >50 mm in greatest dimension
+Tumor of any size with direct extension to the chest wall and/or to the skin 
+(ulceration or skin nodules)*
+Extension to the chest wall, not including only pectoralis muscle 
+adherence/invasion
+Ulceration and/or ipsilateral satellite nodules and/or edema (including peau 
+d'orange) of the skin which do not meet the criteria for inflammatory 
+carcinoma
+Both T4a and T4b
+Inflammatory carcinoma**
+*Note: Invasion of the dermis alone does not qualify as T4.
+**Note: Inflammatory carcinoma is restricted to cases with typical skin changes 
+involving a third or more of the skin of the breast. While the histologic presence of 
+invasive carcinoma invading dermal lymphatics is supportive of the diagnosis, it is not 
+required, nor is dermal lymphatic invasion without typical clinical findings sufficient for a 
+diagnosis of inflammatory breast cancer.
+TX
+T0
+Tis
+Tis (DCIS)
+Tis (LCIS)
+Tis (Paget’s)
+T1
+T1mi
+T1a
+T1b
+T1c
+T2
+T3
+T4
+T4a
+T4b
+T4c
+T4d
+NX
+pNX
+N0
+pN0
+pN0(i-)
+pN0(i+)
+pN0(mol-)
+pN0(mol+)
+REGIONAL LYMPH NODES (N)
+Regional lymph nodes cannot be assessed (e.g., previously removed)
+Regional lymph nodes cannot be assessed (e.g., previously removed, or not 
+removed for pathologic study)
+No regional lymph node metastases
+No regional lymph node metastasis identified histologically
+No regional lymph node metastases histologically, negative IHC
+Malignant cells in regional lymph node(s) no greater than 0.2 mm (detected by 
+H&E or IHC including ITC)
+No regional lymph node metastases histologically, negative molecular findings 
+(RT-PCR)
+Positive molecular findings (RT-PCR), but no regional lymph node metastases 
+detected by histology or IHC
+NX
+pNX*
+N0
+pN0
+pN0(i-)
+pN0(i+)
+pN0(mol-)
+pN0(mol+)
+STAGE CATEGORY DEFINITIONS
+BREAST STAGING FORM
+left    right     bilateral
+LATERALITY:
+TUMOR SIZE:
+HOSPITAL NAME/ADDRESS 
+PATIENT NAME/ INFORMATION
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+372 
+American Joint Committee on Cancer • 2010
+(continued from previous page)
+N1
+pN1
+pN1mi
+pN1a
+pN1b
+pN1c
+N2
+pN2
+N2a
+pN2a
+N2b
+pN2b
+N3
+pN3
+N3a
+pN3a
+N3b
+N3c
+pN3b
+Metastases to movable ipsilateral level I, II axillary lymph node(s)
+Micrometastases; or metastases in 1 to 3 axillary lymph nodes; and/or in 
+internal mammary nodes with metastases detected by sentinel lymph node 
+biopsy but not clinically detected**
+Micrometastases (greater than 0.2 mm and/or more than 200 cells, but none 
+greater than 2.0 mm)
+Metastases in 1 to 3 axillary lymph nodes, at least one metastasis greater than 
+2.0 mm
+Metastases in internal mammary nodes with micrometastases or 
+macrometastases detected by sentinel lymph node biopsy but not clinically 
+detected**
+Metastases in 1 to 3 axillary lymph nodes and in internal mammary lymph 
+nodes with micrometastases or macrometastases detected by sentinel lymph 
+node biopsy but not clinically detected**
+Metastases in ipsilateral level I, II axillary lymph nodes that are clinically fixed 
+or matted; or in clinically detected* ipsilateral internal mammary nodes in the 
+absence of clinically evident axillary lymph node metastases
+Metastases in 4 to 9 axillary lymph nodes; or in clinically detected*** internal 
+mammary lymph nodes in the absence of axillary lymph node metastases
+Metastases in ipsilateral axillary lymph nodes fixed to one another (matted) or 
+to other structures
+Metastases in 4 to 9 axillary lymph nodes (at least one tumor deposit greater 
+than 2.0 mm)
+Metastases only in clinically detected*** ipsilateral internal mammary nodes and 
+in the absence of clinically evident axillary lymph node metastases
+Metastases in clinically detected*** internal mammary lymph nodes in the 
+absence of axillary lymph node metastases
+Metastases in ipsilateral infraclavicular (level III axillary) lymph node(s) with or 
+without level I, II axillary lymph node involvement; or in clinically detected* 
+ipsilateral internal mammary lymph node(s) with clinically evident level I, II 
+axillary lymph node metastases; or metastases in ipsilateral supraclavicular 
+lymph node(s) with or without axillary or internal mammary lymph node 
+involvement
+Metastases in 10 or more axillary lymph nodes; or in infraclavicular (level III 
+axillary) lymph nodes; or in clinically detected*** ipsilateral internal 
+mammary lymph nodes in the presence of 1 or more positive level I, II 
+axillary lymph nodes; or in more than 3 axillary lymph nodes and in internal 
+mammary lymph nodes with micrometastases or macrometastases detected 
+by sentinel lymph node biopsy but not clinically detected**; or in ipsilateral 
+supraclavicular lymph nodes
+Metastases in ipsilateral infraclavicular lymph node(s) 
+Metastases in 10 or more axillary lymph nodes (at least one tumor deposit 
+greater than 2.0 mm); or metastases to the infraclavicular (level III axillary 
+lymph) nodes
+Metastases in ipsilateral internal mammary lymph node(s) and axillary lymph 
+node(s)
+Metastases in clinically detected*** ipsilateral internal mammary lymph nodes 
+in the presence  of 1 or more positive axillary lymph nodes; or in more than 3 
+axillary lymph nodes and in internal mammary lymph nodes with 
+micrometastases or macrometastases detected by sentinel lymph node 
+N1
+pN1
+pN1mi
+pN1a
+pN1b
+pN1c
+pN2
+pN2a
+pN2b
+pN3
+pN3a
+pN3b
+biopsy but not clinically detected**
+Metastases in ipsilateral supraclavicular lymph node(s)
+HOSPITAL NAME/ADDRESS 
+PATIENT NAME/INFORMATION
+BREAST STAGING FORM
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+373
+(continued on next page)
+Metastases in ipsilateral supraclavicular lymph nodes
+*Classification is based on axillary lymph node dissection with or without sentinel lymph
+node biopsy. Classification based solely on sentinel lymph node biopsy without subse-
+quent axillary lymph node dissection is designated (sn) for “sentinel node,” for example, pN0(sn).
+**Note: Not clinically detected is defined as not detected by imaging studies
+(excluding lymphoscintigraphy) or not detected by clinical examination.
+***Note: Clinically detected is defined as detected by imaging studies (excluding  
+lymphoscintigraphy) or by clinical examination and having characteristics highly
+suspicious for malignancy or a presumed pathologic macrometastasis based on
+fine needle aspiration biopsy with cytologic examination. Confirmation of clinically
+detected metastatic disease by fine needle aspiration without excision biopsy is
+designated with an (f) suffix, for example, cN3a(f). Excisional biopsy of a lymph node
+or biopsy of a sentinel node, in the absence of assignment of a pT, is classified as
+a clinical N, for example, cN1. Information regarding the confirmation of the nodal status
+will be designated in sitespecific factors as clinical, fine needle aspiration, core biopsy,
+or sentinel lymph node biopsy. Pathologic classification (pN) is used for excision or
+sentinel lymph node biopsy only in conjunction with a pathologic T assignment.
+Note: Isolated tumor cell clusters (ITC) are defined as small clusters of cells not
+greater than 0.2 mm, or single tumor cells, or a cluster of fewer than 200 cells in
+a single histologic cross-section. ITCs may be detected by routine histology or by
+immunohistochemical (IHC) methods. Nodes containing only ITCs are excluded 
+from the total positive node count for purposes of N classification but should be
+included in the total number of nodes evaluated 
+M0
+cM0(i+)
+M1
+DISTANT METASTASIS (M)
+No clinical or radiographic evidence of distant metastases (no pathologic M0; 
+use clinical M to complete stage group)
+No clinical or radiographic evidence of distant metastases, but deposits of 
+molecularly or microscopically detected tumor cells in circulating blood, 
+bone marrow or other non-regional nodal tissue that are no larger than  
+0.2 mm in a patient without symptoms or signs of metastases
+Distant detectable metastases as determined by classic clinical and 
+radiographic means and/or histologically proven larger than 0.2 mm
+M1
+pN3c
+pN3c
+BREAST STAGING FORM
+HOSPITAL NAME/ADDRESS 
+PATIENT NAME/INFORMATION
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+374 
+American Joint Committee on Cancer • 2010
+(continued from previous page)
+PROGNOSTIC FACTORS (SITE-SPECIFIC FACTORS)
+REQUIREDFORSTAGING: None
+CLINICALLYSIGNIFICANT:
+Paget’s disease: ___________________________________________________________
+Tumor grade (Scarff-Bloom-Richardson system):__________________________________
+Estrogen receptor and test method (IHC, RT-PCR, other): ___________________________
+Progesterone receptor and test method (IHC, RT-PCR, other): _______________________
+HER2 status and test method (IHC, FISH, CISH, RT-PCR, other): ____________________
+Method of lymph node assessment (e.g., clinical, fine needle aspiration; core biopsy; 
+sentinel lymph node biopsy): ________________________________________________
+IHC of regional lymph nodes: _________________________________________________
+Molecular studies of regional lymph nodes: ______________________________________
+Distant metastases method of detection (clinical, radiographic, biopsy): ________________
+Circulating Tumor Cells (CTC) and method of detection (RT-PCR, immunomagnetic 
+separation, other): ________________________________________________________
+Disseminated Tumor Cells (DTC; bone marrow micrometastases) and method of detection 
+(RT-PCR, immunohistochemical, other): _______________________________________
+Multi-gene signature score: ___________________________________________________
+Response to neoadjuvant therapy will be collected in the registry but does not affect the post-
+neoadjuvant stage: ________________________________________________________
+General Notes: 
+For identification of special cases of 
+TNM or pTNM classifications, the "m" 
+suffix and "y," "r," and "a" prefixes are 
+used. Although they do not affect the 
+stage grouping, they indicate cases 
+needing separate analysis.
+m suffix indicates the presence of 
+multiple primary tumors in a single 
+site and is recorded in parentheses: 
+pT(m)NM.
+y prefix indicates those cases in 
+which classification is performed 
+during or following initial multimodality 
+therapy. The cTNM or pTNM 
+category is identified by a "y" prefix. 
+The ycTNM or ypTNM categorizes 
+the extent of tumor actually present at 
+the time of that examination. The "y" 
+categorization is not an estimate of 
+tumor prior to multimodality therapy.
+r prefix indicates a recurrent tumor 
+when staged after a disease-free 
+interval, and is identified by the "r" 
+prefix: rTNM.
+a prefix designates the stage 
+determined at autopsy: aTNM.
+BREAST STAGING FORM
+HOSPITAL NAME/ADDRESS 
+PATIENT NAME/INFORMATION
+CLINICAL
+GROUP
+T
+N
+M
+IA
+0
+T1*
+Tis
+N0
+N0
+M0
+M0
+0
+Tis
+N0
+M0
+IB
+T0
+N1mi
+M0
+T1*
+N1mi
+M0
+IIA 
+T0
+N1**
+M0
+T1*
+N1**
+M0
+T2
+N0
+M0
+IIB 
+T2
+N1
+M0
+T3
+N0
+M0
+IIIA 
+T0
+N2
+M0
+T1*
+N2
+M0
+T2
+N2
+M0
+T3
+N1
+M0
+T3
+N2
+M0
+IIIB 
+T4
+N0
+M0
+T4
+N1
+M0
+T4
+N2
+M0
+Stage IIIC Any T
+N3
+M0
+Stage IV 
+Any T
+Any N
+M1
+* T1 includes T1mi
+** T0 and T1 tumors with nodal micrometastases only are excluded from Stage IIA 
+and are classified Stage IB.
+PATHOLOGIC
+GROUP
+T
+N
+M
+IA
+T1*
+N0
+M0
+IB
+T0
+N1mi
+M0
+T1*
+N1mi
+M0
+IIA 
+T0
+N1**
+M0
+T1*
+N1**
+M0
+T2
+N0
+M0
+IIB 
+T2
+N1
+M0
+T3
+N0
+M0
+IIIA 
+T0
+N2
+M0
+T1*
+N2
+M0
+T2
+N2
+M0
+T3
+N1
+M0
+T3
+N2
+M0
+IIIB 
+T4
+N0
+M0
+T4
+N1
+M0
+T4
+N2
+M0
+Stage IIIC Any T
+N3
+M0
+Stage IV 
+Any T
+Any N
+M1
+* T1 includes T1mi
+** T0 and T1 tumors with nodal micrometastases only are excluded from 
+Stage  IIA and are classified Stage IB.
+Stage unknown
+Stage unknown
+ANATOMIC STAGE • PROGNOSTIC GROUPS
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+Breast 
+375
+(continued on next page)
+Residual Tumor (R)
+The absence or presence of residual tumor after treatment. In some cases treated with surgery and/or 
+with neoadjuvant therapy there will be residual tumor at the primary site after treatment because of 
+incomplete resection or local and regional disease that extends beyond the limit of ability of resection.
+RX Presence of residual tumor cannot be assessed
+R0 No residual tumor
+R1 Microscopic residual tumor
+R2 Macroscopic residual tumor
+Clinical stage was used in treatment planning (describe):
+National guidelines were used in treatment planning  
+ NCCN  
+  Other (describe): 
+Physician signature
+Date/Time
+BREAST STAGING FORM
+HOSPITAL NAME/ADDRESS 
+PATIENT NAME/INFORMATION
+Histologic Grade (G) (also known as overall grade)
+Grading system
+2 grade system
+Grade
+Grade I or 1
+3 grade system
+Grade II or 2
+4 grade system
+Grade III or 3
+No 2, 3, or 4 grade system is available
+Grade IV or 4
+ADDITIONAL DESCRIPTORS
+Lymphatic Vessel Invasion (L) and Venous Invasion (V) have been combined into Lymph-Vascular 
+Invasion (LVI) for collection by cancer registrars. The College of American Pathologist (CAP) Checklist 
+should be used as the primary source. Other sources may be used in the absence of a Checklist. Priority 
+is given to positive results.  
+Lymph-Vascular Invasion Not Present (absent)/Not Identified
+Lymph-Vascular Invasion Present/Identified
+Not Applicable
+Unknown/Indeterminate
+surgical margins  is data field 
+recorded by registrars describing the 
+surgical margins of the resected 
+primary site specimen as determined 
+only by the pathology report. 
+neoadjuvant treatment is radiation 
+therapy or systemic therapy 
+(consisting of chemotherapy, 
+hormone therapy, or immunotherapy) 
+administered prior to a definitive 
+surgical procedure. If the surgical 
+procedure is not performed, the 
+administered therapy no longer meets 
+the definition of neoadjuvant therapy.
+General Notes (continued):
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+376 
+American Joint Committee on Cancer • 2010
+(continued from previous page)
+Indicate on diagram primary
+tumor and regional nodes
+involved.
+Illustration
+BREAST STAGING FORM
+HOSPITAL NAME/ADDRESS 
+PATIENT NAME/INFORMATION
+In order to view this proof accurately, the Overprint Preview Option must be 
+set to Always in Acrobat Professional or Adobe Reader. Please contact your                               
+Customer Service Representative if you have questions about finding this option.
+Job Name: --
+/381449t
+
