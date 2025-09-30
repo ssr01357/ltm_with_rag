@@ -1,0 +1,6 @@
+2025-04-10 10:40:52 - INFO - Environment setup complete.
+2025-04-10 10:40:52 - INFO - Loaded 7807 cases from /secure/shared_data/SOAP/MIMIC/cases_base.json
+2025-04-10 10:44:15 - INFO - Created 93025 total chunks (docs) from the original cases.
+2025-04-10 10:44:15 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-10 10:44:16 - INFO - PyTorch version 2.2.0 available.
+2025-04-10 10:45:18 - INFO - Embedding doc_id=139574_0...
