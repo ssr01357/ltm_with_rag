@@ -22,8 +22,8 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
     handlers=[
-        logging.FileHandler('log/0410_MA_3_probs_parallel_static.log', mode='w'),  # 파일로 저장
-        logging.StreamHandler()  # 콘솔에 출력
+        logging.FileHandler('log/0410_MA_3_probs_parallel_static.log', mode='w'),
+        logging.StreamHandler()
     ]
 )
 logger = logging.getLogger(__name__)
